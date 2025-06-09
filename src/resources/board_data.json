@@ -1,0 +1,1375 @@
+{
+  "Staging": {
+    "1998-12-21 - PC - Baldur's Gate": {
+      "Description": "Classic isometric RPG based on D&D rules with real-time-with-pause combat.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684606cc0a7f754799ca14e8",
+      "ShortUrl": "https://trello.com/c/wEV9JEUX",
+      "Release Date": "1998-12-21",
+      "System": "PC",
+      "Title": "Baldur's Gate"
+    },
+    "2000-09-24 - PC - Baldur's Gate II": {
+      "Description": "Epic sequel with expanded character options and deeper storytelling.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684606d89354337f04d3eb53",
+      "ShortUrl": "https://trello.com/c/RwCF6xHl",
+      "Release Date": "2000-09-24",
+      "System": "PC",
+      "Title": "Baldur's Gate II"
+    },
+    "2023-08-03 - PC - Baldur's Gate III": {
+      "Description": "Modern revival of the series with turn-based combat and cinematic storytelling.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684606e8e89f205a360bad04",
+      "ShortUrl": "https://trello.com/c/pO9uEpP6",
+      "Release Date": "2023-08-03",
+      "System": "PC",
+      "Title": "Baldur's Gate III"
+    },
+    "2007-11-05 - PC - Call of Duty 4: Modern Warfare": {
+      "Description": "Genre-defining cinematic military FPS with tight multiplayer.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460531ba965b7e750b753c",
+      "ShortUrl": "https://trello.com/c/gjN8aocI",
+      "Release Date": "2007-11-05",
+      "System": "PC",
+      "Title": "Call of Duty 4: Modern Warfare"
+    },
+    "2010-11-09 - PC - Call of Duty: Black Ops": {
+      "Description": "Cold War setting with strong campaign and Zombies mode.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684605599e148b354ea84bb1",
+      "ShortUrl": "https://trello.com/c/6AohYJ1h",
+      "Release Date": "2010-11-09",
+      "System": "PC",
+      "Title": "Call of Duty: Black Ops"
+    },
+    "2009-11-10 - PC - Call of Duty: Modern Warfare 2": {
+      "Description": "Explosive sequel with iconic missions and enhanced multiplayer.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684605455567583b89b5d911",
+      "ShortUrl": "https://trello.com/c/GiPi4Iu3",
+      "Release Date": "2009-11-10",
+      "System": "PC",
+      "Title": "Call of Duty: Modern Warfare 2"
+    },
+    "2023-10-31 - PC - Clair Obscur: Expedition 33": {
+      "Description": "Atmospheric horror adventure with puzzle elements and cosmic horror themes.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460649d84d8668f62dce5a",
+      "ShortUrl": "https://trello.com/c/jqttXJqO",
+      "Release Date": "2023-10-31",
+      "System": "PC",
+      "Title": "Clair Obscur: Expedition 33"
+    },
+    "2020-12-10 - PC - Cyberpunk 2077": {
+      "Description": "Open-world RPG set in a dystopian future with branching storylines and cybernetic enhancements.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846068b0b9aa459c2c47709",
+      "ShortUrl": "https://trello.com/c/ZNRBEzkN",
+      "Release Date": "2020-12-10",
+      "System": "PC",
+      "Title": "Cyberpunk 2077"
+    },
+    "2004-09-14 - Xbox - Fable": {
+      "Description": "Fantasy RPG where player choices affect character appearance and the game world.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684609145edfede60a3e0ce1",
+      "ShortUrl": "https://trello.com/c/K1nRQfLy",
+      "Release Date": "2004-09-14",
+      "System": "Xbox",
+      "Title": "Fable"
+    },
+    "2008-10-21 - Xbox 360 - Fable II": {
+      "Description": "Sequel set 500 years after the original with expanded moral choices and dog companion.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460915f5c15f2c6f7272b8",
+      "ShortUrl": "https://trello.com/c/0yEmAZy5",
+      "Release Date": "2008-10-21",
+      "System": "Xbox 360",
+      "Title": "Fable II"
+    },
+    "2010-10-26 - Xbox 360 - Fable III": {
+      "Description": "Third entry focusing on revolution and ruling a kingdom with consequences for decisions.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460917921b6406795fa9fc",
+      "ShortUrl": "https://trello.com/c/LJzycDBn",
+      "Release Date": "2010-10-26",
+      "System": "Xbox 360",
+      "Title": "Fable III"
+    },
+    "2024-02-29 - PS5 - Final Fantasy VII Rebirth": {
+      "Description": "Second part of the FF7 remake trilogy with open world exploration and expanded story.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846066bc971c135d56f9beb",
+      "ShortUrl": "https://trello.com/c/o9wksXVz",
+      "Release Date": "2024-02-29",
+      "System": "PS5",
+      "Title": "Final Fantasy VII Rebirth"
+    },
+    "2020-04-10 - PS4 - Final Fantasy VII Remake": {
+      "Description": "Modern reimagining of the classic RPG with action combat and expanded Midgar storyline.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846066023054d7ecb67babd",
+      "ShortUrl": "https://trello.com/c/LHOiAMxN",
+      "Release Date": "2020-04-10",
+      "System": "PS4",
+      "Title": "Final Fantasy VII Remake"
+    },
+    "1998-11-19 - PC - Half Life": {
+      "Description": "Revolutionary FPS with seamless storytelling and immersive sci-fi world.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608e8729fc83c2460b166",
+      "ShortUrl": "https://trello.com/c/qDzw99U1",
+      "Release Date": "1998-11-19",
+      "System": "PC",
+      "Title": "Half Life"
+    },
+    "2004-11-16 - PC - Half Life 2": {
+      "Description": "Landmark sequel with physics-based gameplay and dystopian setting.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608eb56e83dcaa3b78bed",
+      "ShortUrl": "https://trello.com/c/cAnJihWX",
+      "Release Date": "2004-11-16",
+      "System": "PC",
+      "Title": "Half Life 2"
+    },
+    "2004-11-09 - Xbox - Halo 2": {
+      "Description": "Sequel with dual protagonist storyline and revolutionary online multiplayer.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608fb421cdb116b17990f",
+      "ShortUrl": "https://trello.com/c/zKkFMlQi",
+      "Release Date": "2004-11-09",
+      "System": "Xbox",
+      "Title": "Halo 2"
+    },
+    "2007-09-25 - Xbox 360 - Halo 3": {
+      "Description": "Epic conclusion to the original trilogy with expanded multiplayer and Forge mode.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608fdd7eba1978915be7a",
+      "ShortUrl": "https://trello.com/c/mO38aZ1s",
+      "Release Date": "2007-09-25",
+      "System": "Xbox 360",
+      "Title": "Halo 3"
+    },
+    "2009-09-22 - Xbox 360 - Halo 3: ODST": {
+      "Description": "Noir-inspired spin-off following elite human soldiers with open-world hub and flashback missions.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460901b323123de23a0faa",
+      "ShortUrl": "https://trello.com/c/w6u04u0p",
+      "Release Date": "2009-09-22",
+      "System": "Xbox 360",
+      "Title": "Halo 3: ODST"
+    },
+    "2012-11-06 - Xbox 360 - Halo 4": {
+      "Description": "First 343 Industries entry focusing on Master Chief's relationship with Cortana.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846090e5a2d6d474f3c4b35",
+      "ShortUrl": "https://trello.com/c/RUaD9w18",
+      "Release Date": "2012-11-06",
+      "System": "Xbox 360",
+      "Title": "Halo 4"
+    },
+    "2001-11-15 - Xbox - Halo: Combat Evolved": {
+      "Description": "Groundbreaking sci-fi FPS that defined console shooters with regenerating shields and vehicle combat.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608faf5131ed5bebc85dd",
+      "ShortUrl": "https://trello.com/c/N7W4lxj6",
+      "Release Date": "2001-11-15",
+      "System": "Xbox",
+      "Title": "Halo: Combat Evolved"
+    },
+    "2021-12-08 - Xbox Series X - Halo: Infinite": {
+      "Description": "Open-world entry with grappling hook mechanics and free-to-play multiplayer component.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460910c293722db3f952fe",
+      "ShortUrl": "https://trello.com/c/sBFfqArl",
+      "Release Date": "2021-12-08",
+      "System": "Xbox Series X",
+      "Title": "Halo: Infinite"
+    },
+    "2010-09-14 - Xbox 360 - Halo: Reach": {
+      "Description": "Prequel focusing on Noble Team's doomed mission with enhanced customization options.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846090acfa7f63692882140",
+      "ShortUrl": "https://trello.com/c/5VDOMLdz",
+      "Release Date": "2010-09-14",
+      "System": "Xbox 360",
+      "Title": "Halo: Reach"
+    },
+    "2002-08-28 - PC - Mafia": {
+      "Description": "Story-driven crime game set in 1930s with realistic driving and immersive city.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684605a05c5870bb1d0b509f",
+      "ShortUrl": "https://trello.com/c/XU7krt9u",
+      "Release Date": "2002-08-28",
+      "System": "PC",
+      "Title": "Mafia"
+    },
+    "2010-08-24 - PC - Mafia II": {
+      "Description": "Open-world 1950s crime drama with enhanced visuals.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684605e0e7e63c5442dd3814",
+      "ShortUrl": "https://trello.com/c/IIafbGhK",
+      "Release Date": "2010-08-24",
+      "System": "PC",
+      "Title": "Mafia II"
+    },
+    "2016-10-07 - PC - Mafia III": {
+      "Description": "Gritty 1968 open-world story of revenge and racial tension.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684605fe37470f4326419e4c",
+      "ShortUrl": "https://trello.com/c/izfi3kXY",
+      "Release Date": "2016-10-07",
+      "System": "PC",
+      "Title": "Mafia III"
+    },
+    "2022-11-15 - PC - Pentiment": {
+      "Description": "Historical narrative adventure set in 16th century Bavaria with unique art style.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846069b6cfb035593d35d29",
+      "ShortUrl": "https://trello.com/c/IX36HbJZ",
+      "Release Date": "2022-11-15",
+      "System": "PC",
+      "Title": "Pentiment"
+    },
+    "2021-05-27 - PC - Solasta: Crown of the Magister": {
+      "Description": "Tactical RPG with faithful D&D 5e implementation and vertical exploration elements.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846062c51cd97dc885121ed",
+      "ShortUrl": "https://trello.com/c/IzbQpxu1",
+      "Release Date": "2021-05-27",
+      "System": "PC",
+      "Title": "Solasta: Crown of the Magister"
+    },
+    "2019-11-15 - PC - Star Wars Jedi: Fallen Order": {
+      "Description": "Souls-like Star Wars adventure with lightsaber combat and Force powers.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684607050a64b4cfe00dd6b8",
+      "ShortUrl": "https://trello.com/c/jyrDRlQr",
+      "Release Date": "2019-11-15",
+      "System": "PC",
+      "Title": "Star Wars Jedi: Fallen Order"
+    },
+    "2023-04-28 - PC - Star Wars Jedi: Survivor": {
+      "Description": "Sequel with expanded combat styles and more open world exploration.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460714ed00ed23b7a8262d",
+      "ShortUrl": "https://trello.com/c/tZvhfwzl",
+      "Release Date": "2023-04-28",
+      "System": "PC",
+      "Title": "Star Wars Jedi: Survivor"
+    },
+    "1991-08-02 - Genesis - Streets of Rage": {
+      "Description": "Classic side-scrolling beat 'em up with memorable soundtrack by Yuzo Koshiro.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608d8038e275933b1e299",
+      "ShortUrl": "https://trello.com/c/aHl5hp9y",
+      "Release Date": "1991-08-02",
+      "System": "Genesis",
+      "Title": "Streets of Rage"
+    },
+    "1992-12-20 - Genesis - Streets of Rage 2": {
+      "Description": "Improved sequel with larger sprites, more moves, and enhanced level design.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608dca5552f000f72154e",
+      "ShortUrl": "https://trello.com/c/lSU0X9T8",
+      "Release Date": "1992-12-20",
+      "System": "Genesis",
+      "Title": "Streets of Rage 2"
+    },
+    "1994-03-17 - Genesis - Streets of Rage 3": {
+      "Description": "Final Genesis entry with faster gameplay, multiple endings, and character-specific moves.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608dfb7bb17451b9abd77",
+      "ShortUrl": "https://trello.com/c/R51v4Vdg",
+      "Release Date": "1994-03-17",
+      "System": "Genesis",
+      "Title": "Streets of Rage 3"
+    },
+    "2015-02-20 - PS4 - The Order: 1886": {
+      "Description": "Cinematic third-person shooter set in alternate Victorian London with werewolves.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684606f6c9ad4c116d3e36cf",
+      "ShortUrl": "https://trello.com/c/ZKfJGt1e",
+      "Release Date": "2015-02-20",
+      "System": "PS4",
+      "Title": "The Order: 1886"
+    },
+    "2019-10-25 - PC - The Outer Worlds": {
+      "Description": "Sci-fi RPG with corporate dystopia setting and choice-driven gameplay.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460678938da1fe118877ce",
+      "ShortUrl": "https://trello.com/c/Zp04ohqH",
+      "Release Date": "2019-10-25",
+      "System": "PC",
+      "Title": "The Outer Worlds"
+    },
+    "2022-03-25 - PC - Tiny Tina's Wonderlands": {
+      "Description": "Fantasy Borderlands spin-off with tabletop RPG theme and D&D-inspired gameplay.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684606a7a86536e3a17be142",
+      "ShortUrl": "https://trello.com/c/RVz7ztvi",
+      "Release Date": "2022-03-25",
+      "System": "PC",
+      "Title": "Tiny Tina's Wonderlands"
+    },
+    "2020-08-28 - PC - Wasteland 3": {
+      "Description": "Post-apocalyptic tactical RPG with squad-based combat and branching narrative.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846061c508d165c74c1c38c",
+      "ShortUrl": "https://trello.com/c/PV9STniG",
+      "Release Date": "2020-08-28",
+      "System": "PC",
+      "Title": "Wasteland 3"
+    },
+    "1997-10-10 - PC - Fallout": {
+      "Description": "Classic post-apocalyptic RPG with turn-based combat and significant player choice.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460a12a5a2eb1e7eb55fe0",
+      "ShortUrl": "https://trello.com/c/DJF3VlzZ",
+      "Release Date": "1997-10-10",
+      "System": "PC",
+      "Title": "Fallout"
+    },
+    "1998-09-30 - PC - Fallout 2": {
+      "Description": "Expanded sequel with more complex quests, larger world, and darker humor.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460a1342236bf78962d30f",
+      "ShortUrl": "https://trello.com/c/eqyyy29N",
+      "Release Date": "1998-09-30",
+      "System": "PC",
+      "Title": "Fallout 2"
+    }
+  },
+  "Trimui Brick - To Play": {
+    "1985-10-18 - NES - Super Mario Bros.": {
+      "Description": "The game that defined platforming and launched the Mario franchise.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d2c913fcdb25049ff635",
+      "ShortUrl": "https://trello.com/c/Ko3av6xP",
+      "Release Date": "1985-10-18",
+      "System": "NES",
+      "Title": "Super Mario Bros."
+    },
+    "1987-08-15 - NES - Metroid": {
+      "Description": "Pioneering non-linear exploration game blending action and discovery.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d393729fc83c24388422",
+      "ShortUrl": "https://trello.com/c/s4vWohHp",
+      "Release Date": "1987-08-15",
+      "System": "NES",
+      "Title": "Metroid"
+    },
+    "1987-08-22 - NES - The Legend of Zelda": {
+      "Description": "Groundbreaking action-adventure game featuring an open world and permanent saves.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d317fed4a1cb6914c176",
+      "ShortUrl": "https://trello.com/c/kKOqqpvx",
+      "Release Date": "1987-08-22",
+      "System": "NES",
+      "Title": "The Legend of Zelda"
+    },
+    "1987-12-17 - NES - Mega Man": {
+      "Description": "First entry in the iconic series featuring robot masters and challenging platforming.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d6667768c53f8be301cf",
+      "ShortUrl": "https://trello.com/c/IHDaDA6O",
+      "Release Date": "1987-12-17",
+      "System": "NES",
+      "Title": "Mega Man"
+    },
+    "1988-10-09 - NES - Super Mario Bros. 2": {
+      "Description": "Unique entry in the series with character selection and vegetable throwing mechanics.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d2d5afc8e09556a1012b",
+      "ShortUrl": "https://trello.com/c/mkIi90hr",
+      "Release Date": "1988-10-09",
+      "System": "NES",
+      "Title": "Super Mario Bros. 2"
+    },
+    "1988-12-01 - NES - Legend of Zelda II: The Adventure of Link": {
+      "Description": "Unique side-scrolling RPG-platformer hybrid with a focus on combat and magic.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d3212cf5d6f06ff2c9bd",
+      "ShortUrl": "https://trello.com/c/le0GXOLa",
+      "Release Date": "1988-12-01",
+      "System": "NES",
+      "Title": "Legend of Zelda II: The Adventure of Link"
+    },
+    "1988-12-24 - NES - Mega Man 2": {
+      "Description": "Sequel that improved on the original with better level design and weapons.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d66fc677d3531272cbf5",
+      "ShortUrl": "https://trello.com/c/fB7rzq2I",
+      "Release Date": "1988-12-24",
+      "System": "NES",
+      "Title": "Mega Man 2"
+    },
+    "1990-02-12 - NES - Super Mario Bros. 3": {
+      "Description": "Revolutionary platformer with world map, power suits, and innovative level design.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d2e62bdb7508e94ab80f",
+      "ShortUrl": "https://trello.com/c/XK0qcE8n",
+      "Release Date": "1990-02-12",
+      "System": "NES",
+      "Title": "Super Mario Bros. 3"
+    },
+    "1991-08-13 - SNES - Super Mario World": {
+      "Description": "Launch title for the SNES featuring Yoshi and expansive world design.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d2edae6351f2bc92d418",
+      "ShortUrl": "https://trello.com/c/mYUQIujt",
+      "Release Date": "1991-08-13",
+      "System": "SNES",
+      "Title": "Super Mario World"
+    },
+    "1991-11-01 - Game Boy - Metroid II: Return of Samus": {
+      "Description": "Portable sequel featuring Samus hunting the remaining Metroids on their home planet.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d38f924c2dd3613c96b6",
+      "ShortUrl": "https://trello.com/c/wMsv5adG",
+      "Release Date": "1991-11-01",
+      "System": "Game Boy",
+      "Title": "Metroid II: Return of Samus"
+    },
+    "1991-11-21 - SNES - Legend of Zelda: A Link to the Past": {
+      "Description": "Defining 16-bit adventure with dual-world mechanic and refined top-down gameplay.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d32bc6ef10d7ff09329e",
+      "ShortUrl": "https://trello.com/c/od0ucSs1",
+      "Release Date": "1991-11-21",
+      "System": "SNES",
+      "Title": "Legend of Zelda: A Link to the Past"
+    },
+    "1993-08-06 - Game Boy - Legend of Zelda: Link's Awakening": {
+      "Description": "Portable adventure with a mysterious island setting and crossover Nintendo characters.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d33a7f566c0953c568b9",
+      "ShortUrl": "https://trello.com/c/EUqxYtjr",
+      "Release Date": "1993-08-06",
+      "System": "Game Boy",
+      "Title": "Legend of Zelda: Link's Awakening"
+    },
+    "1994-03-19 - SNES - Super Metroid": {
+      "Description": "Atmospheric sci-fi adventure that perfected the exploration-based gameplay formula.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d4a4249ce01e5d83c78e",
+      "ShortUrl": "https://trello.com/c/QY66vj9x",
+      "Release Date": "1994-03-19",
+      "System": "SNES",
+      "Title": "Super Metroid"
+    },
+    "1994-11-21 - SNES - Donkey Kong Country": {
+      "Description": "Groundbreaking platformer with pre-rendered 3D graphics and memorable soundtrack.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d690967250b5df14a914",
+      "ShortUrl": "https://trello.com/c/R3XpXqj7",
+      "Release Date": "1994-11-21",
+      "System": "SNES",
+      "Title": "Donkey Kong Country"
+    },
+    "1995-03-11 - SNES - Chrono Trigger": {
+      "Description": "Legendary JRPG with time travel mechanics, multiple endings, and unforgettable characters.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d65923951cfa511d57a6",
+      "ShortUrl": "https://trello.com/c/KfSFUbt3",
+      "Release Date": "1995-03-11",
+      "System": "SNES",
+      "Title": "Chrono Trigger"
+    },
+    "1995-06-05 - SNES - EarthBound": {
+      "Description": "Quirky JRPG set in modern America with unique humor and psychedelic battle sequences.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d74bae8a213eecc3ac16",
+      "ShortUrl": "https://trello.com/c/YLeECrtk",
+      "Release Date": "1995-06-05",
+      "System": "SNES",
+      "Title": "EarthBound"
+    },
+    "1995-11-20 - SNES - Donkey Kong Country 2: Diddy's Quest": {
+      "Description": "Superior sequel with pirate theme, challenging level design, and enhanced graphics.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d69c3c9d0cb5b6dec214",
+      "ShortUrl": "https://trello.com/c/8cdB6zII",
+      "Release Date": "1995-11-20",
+      "System": "SNES",
+      "Title": "Donkey Kong Country 2: Diddy's Quest"
+    },
+    "1996-05-13 - SNES - Super Mario RPG: Legend of the Seven Stars": {
+      "Description": "Innovative Square-Nintendo collaboration blending RPG elements with action commands.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d73f7aefaba202b721c4",
+      "ShortUrl": "https://trello.com/c/9fUfY5cw",
+      "Release Date": "1996-05-13",
+      "System": "SNES",
+      "Title": "Super Mario RPG: Legend of the Seven Stars"
+    },
+    "1996-11-22 - SNES - Donkey Kong Country 3: Dixie Kong's Double Trouble": {
+      "Description": "Final SNES entry in the trilogy with expanded exploration and puzzle elements.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d6aafe4da51527a2d79c",
+      "ShortUrl": "https://trello.com/c/ieYhoAO7",
+      "Release Date": "1996-11-22",
+      "System": "SNES",
+      "Title": "Donkey Kong Country 3: Dixie Kong's Double Trouble"
+    },
+    "2001-05-14 - Game Boy Color - Legend of Zelda: Oracle of Ages": {
+      "Description": "Puzzle-focused Zelda adventure featuring time manipulation mechanics.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d35f9c1742011e73a261",
+      "ShortUrl": "https://trello.com/c/jnJf4ACk",
+      "Release Date": "2001-05-14",
+      "System": "Game Boy Color",
+      "Title": "Legend of Zelda: Oracle of Ages"
+    },
+    "2001-05-14 - Game Boy Color - Oracle of Seasons": {
+      "Description": "Action-focused Zelda adventure with season-changing mechanics affecting the world.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d356109f38893abf84e1",
+      "ShortUrl": "https://trello.com/c/BIdxwcEp",
+      "Release Date": "2001-05-14",
+      "System": "Game Boy Color",
+      "Title": "Oracle of Seasons"
+    },
+    "2002-11-17 - Game Boy Advance - Metroid Fusion": {
+      "Description": "Linear Metroid adventure with horror elements and a parasitic doppelganger enemy.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d4b3924c2dd3613e304a",
+      "ShortUrl": "https://trello.com/c/09JlAMat",
+      "Release Date": "2002-11-17",
+      "System": "Game Boy Advance",
+      "Title": "Metroid Fusion"
+    },
+    "2004-02-09 - Game Boy Advance - Metroid: Zero Mission": {
+      "Description": "Enhanced remake of the original Metroid with modern gameplay and additional content.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d4dc76c22bd655692019",
+      "ShortUrl": "https://trello.com/c/6Mu6g4Hi",
+      "Release Date": "2004-02-09",
+      "System": "Game Boy Advance",
+      "Title": "Metroid: Zero Mission"
+    },
+    "2004-11-04 - Game Boy Advance - Legend of Zelda: The Minish Cap": {
+      "Description": "Top-down adventure featuring size-changing mechanics and vibrant pixel art.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d37736b4d73768b621f7",
+      "ShortUrl": "https://trello.com/c/Ozhqaa6r",
+      "Release Date": "2004-11-04",
+      "System": "Game Boy Advance",
+      "Title": "Legend of Zelda: The Minish Cap"
+    },
+    "2004-12-07 - Game Boy Advance - Kingdom Hearts: Chain of Memories": {
+      "Description": "Card-based battle system bridging the story between Kingdom Hearts and its sequel.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd13c6c573d94a79325b",
+      "ShortUrl": "https://trello.com/c/gQiLfPgK",
+      "Release Date": "2004-12-07",
+      "System": "Game Boy Advance",
+      "Title": "Kingdom Hearts: Chain of Memories"
+    }
+  },
+  "Retroid Pocket 5 - To Play": {
+    "1996-09-29 - N64 - Super Mario 64": {
+      "Description": "Revolutionary 3D platformer that defined camera controls and movement in three dimensions.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d2f7a4120d98bb04491b",
+      "ShortUrl": "https://trello.com/c/DCEZqk0V",
+      "Release Date": "1996-09-29",
+      "System": "N64",
+      "Title": "Super Mario 64"
+    },
+    "1997-03-04 - N64 - Turok: Dinosaur Hunter": {
+      "Description": "Early N64 FPS featuring a Native American warrior battling dinosaurs and aliens.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d804f8bb8f6ecf32f238",
+      "ShortUrl": "https://trello.com/c/xyOvVuSj",
+      "Release Date": "1997-03-04",
+      "System": "N64",
+      "Title": "Turok: Dinosaur Hunter"
+    },
+    "1997-07-01 - N64 - Star Fox 64": {
+      "Description": "Rail shooter with branching paths, memorable characters, and rumble pak support.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d755ac6e4f89915f7cea",
+      "ShortUrl": "https://trello.com/c/HleUamze",
+      "Release Date": "1997-07-01",
+      "System": "N64",
+      "Title": "Star Fox 64"
+    },
+    "1997-08-25 - N64 - GoldenEye 007": {
+      "Description": "Groundbreaking FPS that revolutionized console shooters with objective-based missions.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d7b40a33e988720c54cc",
+      "ShortUrl": "https://trello.com/c/OBgEHEsC",
+      "Release Date": "1997-08-25",
+      "System": "N64",
+      "Title": "GoldenEye 007"
+    },
+    "1998-06-29 - N64 - Banjo-Kazooie": {
+      "Description": "Charming 3D platformer with a bear and bird duo collecting musical notes and puzzle pieces.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d7d103e702276dfa2d32",
+      "ShortUrl": "https://trello.com/c/wnKqdmVa",
+      "Release Date": "1998-06-29",
+      "System": "N64",
+      "Title": "Banjo-Kazooie"
+    },
+    "1998-10-21 - PS1 - Metal Gear Solid": {
+      "Description": "Cinematic stealth action game that revolutionized storytelling in video games.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dcc1e88d9a8076c4ce9e",
+      "ShortUrl": "https://trello.com/c/L95r8efN",
+      "Release Date": "1998-10-21",
+      "System": "PS1",
+      "Title": "Metal Gear Solid"
+    },
+    "1998-11-23 - N64 - Legend of Zelda: Ocarina of Time": {
+      "Description": "Landmark adventure that defined 3D action-adventure games with time travel mechanics.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d345f23d08fb2343df68",
+      "ShortUrl": "https://trello.com/c/87nPECtt",
+      "Release Date": "1998-11-23",
+      "System": "N64",
+      "Title": "Legend of Zelda: Ocarina of Time"
+    },
+    "1998-12-10 - N64 - Turok 2: Seeds of Evil": {
+      "Description": "Ambitious sequel with larger levels, improved graphics, and the iconic Cerebral Bore weapon.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845daf3be12546a82c0ba30",
+      "ShortUrl": "https://trello.com/c/4OZQ86gI",
+      "Release Date": "1998-12-10",
+      "System": "N64",
+      "Title": "Turok 2: Seeds of Evil"
+    },
+    "1999-02-17 - PS1 - Syphon Filter": {
+      "Description": "Third-person action spy thriller with stealth elements and precision targeting system.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db08ae07e1c75244f7cd",
+      "ShortUrl": "https://trello.com/c/rc1l9our",
+      "Release Date": "1999-02-17",
+      "System": "PS1",
+      "Title": "Syphon Filter"
+    },
+    "1999-06-30 - N64 - Pokemon Snap": {
+      "Description": "Unique on-rails photography game where players capture Pokemon in their natural habitats.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d7fca6d3474c8d88722e",
+      "ShortUrl": "https://trello.com/c/NqiaXg2o",
+      "Release Date": "1999-06-30",
+      "System": "N64",
+      "Title": "Pokemon Snap"
+    },
+    "1999-10-31 - PS1 - Medal of Honor": {
+      "Description": "Pioneering WWII first-person shooter with cinematic presentation and historical accuracy.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db213405a7801336277e",
+      "ShortUrl": "https://trello.com/c/tbByfSPV",
+      "Release Date": "1999-10-31",
+      "System": "PS1",
+      "Title": "Medal of Honor"
+    },
+    "1999-11-24 - N64 - Donkey Kong 64": {
+      "Description": "Massive 3D collectathon platformer featuring five playable Kongs with unique abilities.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d6b3aac3d78bf85163ff",
+      "ShortUrl": "https://trello.com/c/6X54Rdf2",
+      "Release Date": "1999-11-24",
+      "System": "N64",
+      "Title": "Donkey Kong 64"
+    },
+    "2000-03-14 - PS1 - Syphon Filter 2": {
+      "Description": "Sequel continuing Gabe Logan's story with expanded stealth mechanics and multiplayer.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db105457e656c6163424",
+      "ShortUrl": "https://trello.com/c/EKLtWSPN",
+      "Release Date": "2000-03-14",
+      "System": "PS1",
+      "Title": "Syphon Filter 2"
+    },
+    "2000-05-22 - N64 - Perfect Dark": {
+      "Description": "Sci-fi FPS with advanced AI, multiplayer options, and secondary weapon functions.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dadbb695b968fd68cc0b",
+      "ShortUrl": "https://trello.com/c/o5dTweR0",
+      "Release Date": "2000-05-22",
+      "System": "N64",
+      "Title": "Perfect Dark"
+    },
+    "2000-08-11 - N64 - Paper Mario": {
+      "Description": "Charming RPG featuring a paper-thin Mario in a storybook world with turn-based combat.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d7e45c5870bb1dea5e56",
+      "ShortUrl": "https://trello.com/c/5Klogxph",
+      "Release Date": "2000-08-11",
+      "System": "N64",
+      "Title": "Paper Mario"
+    },
+    "2000-10-18 - N64 - The World is Not Enough": {
+      "Description": "James Bond FPS based on the film with stealth elements and gadget-based gameplay.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dae567c583c34f5770df",
+      "ShortUrl": "https://trello.com/c/lwXXMi1L",
+      "Release Date": "2000-10-18",
+      "System": "N64",
+      "Title": "The World is Not Enough"
+    },
+    "2000-10-23 - PS1 - Medal of Honor: Underground": {
+      "Description": "WWII FPS prequel focusing on French Resistance fighter Manon Batiste.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db2bd7eba19789ee86fc",
+      "ShortUrl": "https://trello.com/c/leTzpv9C",
+      "Release Date": "2000-10-23",
+      "System": "PS1",
+      "Title": "Medal of Honor: Underground"
+    },
+    "2000-10-26 - N64 - Legend of Zelda: Majora's Mask": {
+      "Description": "Dark, time-looping adventure with mask transformation mechanics and apocalyptic themes.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d34de3252e0ec30c8acb",
+      "ShortUrl": "https://trello.com/c/Se4e9di0",
+      "Release Date": "2000-10-26",
+      "System": "N64",
+      "Title": "Legend of Zelda: Majora's Mask"
+    },
+    "2001-03-05 - N64 - Conker's Bad Fur Day": {
+      "Description": "Mature-rated platformer with crude humor, movie parodies, and diverse gameplay styles.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d7efb17d67ee5455cb4a",
+      "ShortUrl": "https://trello.com/c/sQu0BHxU",
+      "Release Date": "2001-03-05",
+      "System": "N64",
+      "Title": "Conker's Bad Fur Day"
+    },
+    "2001-10-22 - PS2 - Grand Theft Auto III": {
+      "Description": "Revolutionary open-world crime game that defined the 3D sandbox genre.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845ddc8db664b5fb165c1ff",
+      "ShortUrl": "https://trello.com/c/qguZSfLS",
+      "Release Date": "2001-10-22",
+      "System": "PS2",
+      "Title": "Grand Theft Auto III"
+    },
+    "2001-11-06 - PS1 - Syphon Filter 3": {
+      "Description": "Final PS1 entry in the series with flashback missions and refined gameplay mechanics.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db190d8503f63769c18c",
+      "ShortUrl": "https://trello.com/c/eU4ACBUb",
+      "Release Date": "2001-11-06",
+      "System": "PS1",
+      "Title": "Syphon Filter 3"
+    },
+    "2001-11-13 - PS2 - 007: Agent Under Fire": {
+      "Description": "First Bond game on PS2 featuring FPS gameplay with driving and rail-shooting segments.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db772cf5d6f06ff9010a",
+      "ShortUrl": "https://trello.com/c/ZnqWjAUv",
+      "Release Date": "2001-11-13",
+      "System": "PS2",
+      "Title": "007: Agent Under Fire"
+    },
+    "2001-11-13 - PS2 - Metal Gear Solid 2: Sons of Liberty": {
+      "Description": "Cinematic stealth sequel with controversial protagonist switch and postmodern narrative.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dcce7022eb3ded556927",
+      "ShortUrl": "https://trello.com/c/zkdUqHRV",
+      "Release Date": "2001-11-13",
+      "System": "PS2",
+      "Title": "Metal Gear Solid 2: Sons of Liberty"
+    },
+    "2001-11-18 - GameCube - Luigi's Mansion": {
+      "Description": "GameCube launch title starring Luigi as he hunts ghosts in a haunted mansion.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dbf1d5a8cf2dd226c602",
+      "ShortUrl": "https://trello.com/c/KZRjFqhd",
+      "Release Date": "2001-11-18",
+      "System": "GameCube",
+      "Title": "Luigi's Mansion"
+    },
+    "2001-12-03 - PS2 - Jak and Daxter: The Precursor Legacy": {
+      "Description": "Seamless open-world platformer with no loading screens and vibrant environments.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd4252266b082b099ec3",
+      "ShortUrl": "https://trello.com/c/Bk2Tnp72",
+      "Release Date": "2001-12-03",
+      "System": "PS2",
+      "Title": "Jak and Daxter: The Precursor Legacy"
+    },
+    "2002-05-29 - PS2 - Medal of Honor: Frontline": {
+      "Description": "WWII FPS featuring D-Day landing and missions behind enemy lines in occupied Europe.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db490db33cb387a6b9b0",
+      "ShortUrl": "https://trello.com/c/XTpdZo87",
+      "Release Date": "2002-05-29",
+      "System": "PS2",
+      "Title": "Medal of Honor: Frontline"
+    },
+    "2002-08-26 - GameCube - Super Mario Sunshine": {
+      "Description": "Tropical 3D platformer featuring FLUDD water pack mechanics and vacation setting.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d302c380bc222d4a26e3",
+      "ShortUrl": "https://trello.com/c/OzJF0Bvf",
+      "Release Date": "2002-08-26",
+      "System": "GameCube",
+      "Title": "Super Mario Sunshine"
+    },
+    "2002-09-17 - PS2 - Kingdom Hearts": {
+      "Description": "Action RPG crossover between Square Enix and Disney with real-time combat.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd00b20e9b6a3af4d25e",
+      "ShortUrl": "https://trello.com/c/FZyhVXQ9",
+      "Release Date": "2002-09-17",
+      "System": "PS2",
+      "Title": "Kingdom Hearts"
+    },
+    "2002-09-23 - GameCube - Star Fox Adventures": {
+      "Description": "Action-adventure spin-off with dinosaur planet setting and melee combat focus.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d76771e907f966526deb",
+      "ShortUrl": "https://trello.com/c/CDuZfuIA",
+      "Release Date": "2002-09-23",
+      "System": "GameCube",
+      "Title": "Star Fox Adventures"
+    },
+    "2002-10-09 - PS2 - TimeSplitters 2": {
+      "Description": "Fast-paced FPS with time-traveling missions and robust multiplayer options.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db590054560673d055f0",
+      "ShortUrl": "https://trello.com/c/WFy8uPhj",
+      "Release Date": "2002-10-09",
+      "System": "PS2",
+      "Title": "TimeSplitters 2"
+    },
+    "2002-10-29 - PS2 - Grand Theft Auto: Vice City": {
+      "Description": "80s-themed open world crime game with iconic soundtrack and Miami-inspired setting.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845ddcfa1c11f7642475f97",
+      "ShortUrl": "https://trello.com/c/FeWkilTV",
+      "Release Date": "2002-10-29",
+      "System": "PS2",
+      "Title": "Grand Theft Auto: Vice City"
+    },
+    "2002-11-04 - PS2 - Ratchet and Clank": {
+      "Description": "Action platformer featuring creative weapons and gadgets across diverse alien planets.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd60fa9f40b361cb2117",
+      "ShortUrl": "https://trello.com/c/cGoAYLrb",
+      "Release Date": "2002-11-04",
+      "System": "PS2",
+      "Title": "Ratchet and Clank"
+    },
+    "2002-11-17 - GameCube - Metroid Prime": {
+      "Description": "Groundbreaking first-person adventure that successfully translated Metroid to 3D.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d4bc633823acdd2df840",
+      "ShortUrl": "https://trello.com/c/KqB3Wm6r",
+      "Release Date": "2002-11-17",
+      "System": "GameCube",
+      "Title": "Metroid Prime"
+    },
+    "2002-11-18 - PS2 - 007: Nightfire": {
+      "Description": "Bond adventure with varied gameplay including driving, stealth, and shooting segments.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db84678152eded4293f3",
+      "ShortUrl": "https://trello.com/c/aprbgDNe",
+      "Release Date": "2002-11-18",
+      "System": "PS2",
+      "Title": "007: Nightfire"
+    },
+    "2002-12-13 - GameCube - Legend of Zelda: The Wind Waker": {
+      "Description": "Cel-shaded adventure set on a vast ocean with sailing mechanics and expressive animation.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d366249ce01e5d82ee2e",
+      "ShortUrl": "https://trello.com/c/7TP4oljN",
+      "Release Date": "2002-12-13",
+      "System": "GameCube",
+      "Title": "Legend of Zelda: The Wind Waker"
+    },
+    "2003-10-14 - PS2 - Jak II": {
+      "Description": "Darker sequel with GTA-inspired open city, guns, and vehicles in a dystopian future.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd4875e3c5365d674914",
+      "ShortUrl": "https://trello.com/c/A352hotT",
+      "Release Date": "2003-10-14",
+      "System": "PS2",
+      "Title": "Jak II"
+    },
+    "2003-11-11 - PS2 - Ratchet and Clank: Going Commando": {
+      "Description": "Sequel with RPG elements, weapon upgrades, and arena battles expanding on the original.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd69a380476012537f4d",
+      "ShortUrl": "https://trello.com/c/s2pBwmVn",
+      "Release Date": "2003-11-11",
+      "System": "PS2",
+      "Title": "Ratchet and Clank: Going Commando"
+    },
+    "2003-11-17 - PS2 - Need for Speed: Underground": {
+      "Description": "Street racing game with extensive car customization inspired by tuner culture.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845de77a3cb514653e4d706",
+      "ShortUrl": "https://trello.com/c/8m6AEQoU",
+      "Release Date": "2003-11-17",
+      "System": "PS2",
+      "Title": "Need for Speed: Underground"
+    },
+    "2003-11-18 - PS2 - 007: Everything or Nothing": {
+      "Description": "Third-person Bond adventure with Hollywood cast and cinematic presentation.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db947a70a86cea05855f",
+      "ShortUrl": "https://trello.com/c/shINIkRW",
+      "Release Date": "2003-11-18",
+      "System": "PS2",
+      "Title": "007: Everything or Nothing"
+    },
+    "2004-07-22 - GameCube - Paper Mario: The Thousand-Year Door": {
+      "Description": "Beloved RPG sequel with turn-based combat, paper-based transformations, and charming story.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dc01f460388075fe7089",
+      "ShortUrl": "https://trello.com/c/8xw5toaq",
+      "Release Date": "2004-07-22",
+      "System": "GameCube",
+      "Title": "Paper Mario: The Thousand-Year Door"
+    },
+    "2004-10-26 - PS2 - Grand Theft Auto: San Andreas": {
+      "Description": "Massive open-world crime game set in 90s California with RPG elements and gang warfare.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dddb8704215025278a23",
+      "ShortUrl": "https://trello.com/c/ngm5gQhI",
+      "Release Date": "2004-10-26",
+      "System": "PS2",
+      "Title": "Grand Theft Auto: San Andreas"
+    },
+    "2004-11-02 - PS2 - Ratchet and Clank: Up Your Arsenal": {
+      "Description": "Third entry with expanded arsenal, multiplayer mode, and refined gameplay mechanics.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd725995523a8cc780c9",
+      "ShortUrl": "https://trello.com/c/e72L07UB",
+      "Release Date": "2004-11-02",
+      "System": "PS2",
+      "Title": "Ratchet and Clank: Up Your Arsenal"
+    },
+    "2004-11-09 - PS2 - Jak 3": {
+      "Description": "Final entry in the trilogy featuring desert wasteland setting and light/dark powers.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd4e4c72bad252039be8",
+      "ShortUrl": "https://trello.com/c/vMxpukwf",
+      "Release Date": "2004-11-09",
+      "System": "PS2",
+      "Title": "Jak 3"
+    },
+    "2004-11-15 - GameCube - Metroid Prime 2: Echoes": {
+      "Description": "Darker sequel featuring light/dark world mechanics and challenging boss battles.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d55fff6c3390e4b294ab",
+      "ShortUrl": "https://trello.com/c/iWIY0TNz",
+      "Release Date": "2004-11-15",
+      "System": "GameCube",
+      "Title": "Metroid Prime 2: Echoes"
+    },
+    "2004-11-15 - PS2 - Need for Speed: Underground 2": {
+      "Description": "Open-world street racing with extensive visual customization and free-roaming city.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845de81937a34ef91dfc3ee",
+      "ShortUrl": "https://trello.com/c/pcA264VD",
+      "Release Date": "2004-11-15",
+      "System": "PS2",
+      "Title": "Need for Speed: Underground 2"
+    },
+    "2004-11-17 - PS2 - Metal Gear Solid 3: Snake Eater": {
+      "Description": "Cold War stealth action with survival mechanics and origin story of Big Boss.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dcd9633823acdd354514",
+      "ShortUrl": "https://trello.com/c/MjF3z9Us",
+      "Release Date": "2004-11-17",
+      "System": "PS2",
+      "Title": "Metal Gear Solid 3: Snake Eater"
+    },
+    "2005-02-14 - GameCube - Star Fox Assault": {
+      "Description": "Mix of on-rails shooting, all-range mode, and ground combat against the Aparoid invasion.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d76dba548c26fad210e5",
+      "ShortUrl": "https://trello.com/c/lpjpjKZg",
+      "Release Date": "2005-02-14",
+      "System": "GameCube",
+      "Title": "Star Fox Assault"
+    },
+    "2005-03-21 - PS2 - TimeSplitters: Future Perfect": {
+      "Description": "Fast-paced FPS with time-travel narrative, co-op campaign, and robust map editor.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db67f30def42c6efd00a",
+      "ShortUrl": "https://trello.com/c/4K3NzoL3",
+      "Release Date": "2005-03-21",
+      "System": "PS2",
+      "Title": "TimeSplitters: Future Perfect"
+    },
+    "2005-03-22 - PS2 - God of War": {
+      "Description": "Brutal action game based on Greek mythology with visceral combat and epic scale.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dc89ae33a0ac7e630f96",
+      "ShortUrl": "https://trello.com/c/N7bNnxNT",
+      "Release Date": "2005-03-22",
+      "System": "PS2",
+      "Title": "God of War"
+    },
+    "2005-04-11 - PS2 - Midnight Club 3: Dub Edition": {
+      "Description": "Urban street racing with licensed cars, extensive customization, and open cities.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845de5a95a056c22e2862ee",
+      "ShortUrl": "https://trello.com/c/OvdFgfsP",
+      "Release Date": "2005-04-11",
+      "System": "PS2",
+      "Title": "Midnight Club 3: Dub Edition"
+    },
+    "2005-11-15 - PS2 - Need for Speed: Most Wanted": {
+      "Description": "Open-world racing with police chases and Blacklist progression system.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845de8c90e57294018a3a37",
+      "ShortUrl": "https://trello.com/c/HWYdNfrd",
+      "Release Date": "2005-11-15",
+      "System": "PS2",
+      "Title": "Need for Speed: Most Wanted"
+    },
+    "2005-12-22 - PS2 - Kingdom Hearts II": {
+      "Description": "Sequel with refined combat, Drive Forms, and expanded Disney and Final Fantasy crossovers.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd1cfd746dbba2e312f1",
+      "ShortUrl": "https://trello.com/c/grRFAcDs",
+      "Release Date": "2005-12-22",
+      "System": "PS2",
+      "Title": "Kingdom Hearts II"
+    },
+    "2006-02-24 - PS2 - Black": {
+      "Description": "First-person shooter focused on destructible environments and weapon detail.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845db9ca8a5799fb8503b2c",
+      "ShortUrl": "https://trello.com/c/ExjLQ7Gi",
+      "Release Date": "2006-02-24",
+      "System": "PS2",
+      "Title": "Black"
+    },
+    "2006-10-17 - PS2 - Bully": {
+      "Description": "Open-world adventure set in a boarding school with classes, cliques, and pranks.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845de4790839976e238d3d1",
+      "ShortUrl": "https://trello.com/c/SEbAtqzy",
+      "Release Date": "2006-10-17",
+      "System": "PS2",
+      "Title": "Bully"
+    },
+    "2006-12-11 - GameCube - Legend of Zelda: Twilight Princess": {
+      "Description": "Dark fantasy adventure with wolf transformation mechanics and twilight realm.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d38007c42b46d50595c4",
+      "ShortUrl": "https://trello.com/c/uQtxsAIA",
+      "Release Date": "2006-12-11",
+      "System": "GameCube",
+      "Title": "Legend of Zelda: Twilight Princess"
+    },
+    "2007-03-13 - PS2 - God of War II": {
+      "Description": "Epic sequel with expanded combat, larger boss battles, and refined puzzle mechanics.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dc8e9be877f7ff940683",
+      "ShortUrl": "https://trello.com/c/5OjDQuC2",
+      "Release Date": "2007-03-13",
+      "System": "PS2",
+      "Title": "God of War II"
+    },
+    "2010-04-29 - PSP - Metal Gear Solid: Peace Walker": {
+      "Description": "Portable stealth action with base-building mechanics and co-op missions.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dcf0b695b968fd6a4008",
+      "ShortUrl": "https://trello.com/c/QzsBmKny",
+      "Release Date": "2010-04-29",
+      "System": "PSP",
+      "Title": "Metal Gear Solid: Peace Walker"
+    },
+    "2010-09-07 - PSP - Kingdom Hearts: Birth by Sleep": {
+      "Description": "Prequel with three playable characters and command deck battle system.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd2ab1628803118d0979",
+      "ShortUrl": "https://trello.com/c/J4kXF4KU",
+      "Release Date": "2010-09-07",
+      "System": "PSP",
+      "Title": "Kingdom Hearts: Birth by Sleep"
+    }
+  },
+  "Modern Consoles - To Play": {
+    "2007-10-23 - PS3 - Ratchet and Clank: Future Tools of Destruction": {
+      "Description": "First PS3 entry with enhanced graphics, new weapons, and expanded universe lore.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd90c68e5f950445a145",
+      "ShortUrl": "https://trello.com/c/MPaplmQ6",
+      "Release Date": "2007-10-23",
+      "System": "PS3",
+      "Title": "Ratchet and Clank: Future Tools of Destruction"
+    },
+    "2008-04-29 - PS3 - Grand Theft Auto IV": {
+      "Description": "Gritty open-world crime drama set in Liberty City with realistic physics and narrative focus.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dde6a83832a141827b71",
+      "ShortUrl": "https://trello.com/c/0NJG5Y3y",
+      "Release Date": "2008-04-29",
+      "System": "PS3",
+      "Title": "Grand Theft Auto IV"
+    },
+    "2008-06-12 - PS3 - Metal Gear Solid 4: Guns of the Patriots": {
+      "Description": "Cinematic stealth action concluding Solid Snake's story with adaptive camouflage mechanics.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dce4f7f2418542869ea7",
+      "ShortUrl": "https://trello.com/c/dzoaTaN6",
+      "Release Date": "2008-06-12",
+      "System": "PS3",
+      "Title": "Metal Gear Solid 4: Guns of the Patriots"
+    },
+    "2009-10-27 - PS3 - Ratchet and Clank: Future A Crack in Time": {
+      "Description": "Time-manipulation mechanics and dual gameplay between Ratchet and Clank's separate adventures.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd9fe755a3ee6b5350b3",
+      "ShortUrl": "https://trello.com/c/xm52OtN9",
+      "Release Date": "2009-10-27",
+      "System": "PS3",
+      "Title": "Ratchet and Clank: Future A Crack in Time"
+    },
+    "2010-03-16 - PS3 - God of War III": {
+      "Description": "Epic conclusion to the Greek saga with massive scale, brutal combat, and titan battles.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dc9571f882783fcdd2e8",
+      "ShortUrl": "https://trello.com/c/8ZVt1RFy",
+      "Release Date": "2010-03-16",
+      "System": "PS3",
+      "Title": "God of War III"
+    },
+    "2010-11-16 - PS3 - Need for Speed: Hot Pursuit": {
+      "Description": "High-speed racing with exotic cars and police chases featuring Autolog social features.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dea7890272323758814e",
+      "ShortUrl": "https://trello.com/c/0ej7k1Nz",
+      "Release Date": "2010-11-16",
+      "System": "PS3",
+      "Title": "Need for Speed: Hot Pursuit"
+    },
+    "2013-03-12 - PS3 - God of War Ascension": {
+      "Description": "Prequel with elemental powers, refined combat, and multiplayer mode.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dca465741f2659237953",
+      "ShortUrl": "https://trello.com/c/Fny6wtjH",
+      "Release Date": "2013-03-12",
+      "System": "PS3",
+      "Title": "God of War Ascension"
+    },
+    "2016-04-12 - PS4 - Ratch and Clank": {
+      "Description": "Reimagining of the original with modern graphics and refined gameplay mechanics.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dda77e2d5205105bb578",
+      "ShortUrl": "https://trello.com/c/2cCfh1IU",
+      "Release Date": "2016-04-12",
+      "System": "PS4",
+      "Title": "Ratch and Clank"
+    },
+    "2018-04-20 - PS4 - God of War": {
+      "Description": "Norse mythology reboot with father-son narrative and over-the-shoulder combat.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dcb24388b63466f11bce",
+      "ShortUrl": "https://trello.com/c/bska0NQ6",
+      "Release Date": "2018-04-20",
+      "System": "PS4",
+      "Title": "God of War"
+    },
+    "2019-01-29 - PS4 - Kingdom Hearts III": {
+      "Description": "Long-awaited conclusion to the Xehanort saga with modern Disney worlds and flashy combat.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd37d599724d2fe3e156",
+      "ShortUrl": "https://trello.com/c/kStL5FES",
+      "Release Date": "2019-01-29",
+      "System": "PS4",
+      "Title": "Kingdom Hearts III"
+    },
+    "2021-06-11 - PS5 - Ratchet and Clank: Rift Apart": {
+      "Description": "PS5 showcase with dimensional rifts, new playable character, and instant loading.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845ddb81725775c86b127cf",
+      "ShortUrl": "https://trello.com/c/MpWAyJWm",
+      "Release Date": "2021-06-11",
+      "System": "PS5",
+      "Title": "Ratchet and Clank: Rift Apart"
+    },
+    "2022-06-16 - PS5 - TMNT: Shredder's Revenge": {
+      "Description": "Modern beat 'em up inspired by the arcade classics with 6-player co-op and retro style.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d7321c84a4c9ee7a4e51",
+      "ShortUrl": "https://trello.com/c/grTGVe2Z",
+      "Release Date": "2022-06-16",
+      "System": "PS5",
+      "Title": "TMNT: Shredder's Revenge"
+    },
+    "2022-11-09 - PS5 - God of War: Ragnarok": {
+      "Description": "Epic conclusion to the Norse saga with all nine realms and expanded combat options.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dcbacd084803d8627321",
+      "ShortUrl": "https://trello.com/c/4tCp5Qdn",
+      "Release Date": "2022-11-09",
+      "System": "PS5",
+      "Title": "God of War: Ragnarok"
+    }
+  },
+  "Arcade - To Play": {
+    "1991-03-01 - SNES/Arcade - Street Fighter II": {
+      "Description": "Revolutionary fighting game that defined the genre with unique characters and special moves.",
+      "Device": "Arcade",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d6c8a1c11f764244367d",
+      "ShortUrl": "https://trello.com/c/zr6UKqBw",
+      "Release Date": "1991-03-01",
+      "System": "SNES/Arcade",
+      "Title": "Street Fighter II"
+    },
+    "1992-08-01 - SNES/Arcade - TMNT IV: Turtles in Time": {
+      "Description": "Classic beat 'em up featuring the Ninja Turtles traveling through different time periods.",
+      "Device": "Arcade",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d72380626d2b004e6dfe",
+      "ShortUrl": "https://trello.com/c/VQk6fRad",
+      "Release Date": "1992-08-01",
+      "System": "SNES/Arcade",
+      "Title": "TMNT IV: Turtles in Time"
+    }
+  },
+  "Playing": {},
+  "Completed": {},
+  "Played": {}
+}
