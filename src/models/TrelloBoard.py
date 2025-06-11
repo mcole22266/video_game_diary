@@ -1,6 +1,5 @@
-import os
 import requests
-from dotenv import load_dotenv
+from config import Config
 
 
 class TrelloBoard:
@@ -9,10 +8,11 @@ class TrelloBoard:
     with the Trello REST API
     """
     def __init__(self):
-        load_dotenv()
-        self.api_key = os.getenv('TRELLO_API_KEY')
-        self.token = os.getenv('TRELLO_API_TOKEN')
-        self.board_id = os.getenv('TRELLO_BOARD_ID_GAMING')
+        config = Config()
+        self.api_key = config.TRELLO_API_KEY
+        self.token = config.TRELLO_API_TOKEN
+        self.secret = config.TRELLO_API_SECRET
+        self.board_id = config.TRELLO_BOARD_ID_GAMING
         self.base_url = "https://api.trello.com/1"
 
     def _build_params(self, params=None):
@@ -34,13 +34,14 @@ class TrelloBoard:
         if response.status_code == 200:
             return response.json()
         else:
+            print(f"Error: {response.text}")
             response.raise_for_status()
 
     def _get(self, endpoint, params=None):
         """
         Private Method for a GET Request on the Trello Board
         """
-        params = self._build_params(params)
+        params = self._build_params()
         response = requests.get(f"{self.base_url}{endpoint}", params=params)
         return self._handle_response(response)
 
@@ -48,14 +49,16 @@ class TrelloBoard:
         """
         Private Method for a PUT Request on the Trello Board
         """
-        response = requests.put(f"{self.base_url}{endpoint}", data=data)
+        params = self._build_params()
+        response = requests.put(f"{self.base_url}{endpoint}", params=params, data=data)
         return self._handle_response(response)
 
     def _post(self, endpoint, data=None):
         """
         Private Method for a POST Request on the Trello Board
         """
-        response = requests.post(f"{self.base_url}{endpoint}", data=data)
+        params = self._build_params()
+        response = requests.post(f"{self.base_url}{endpoint}", params=params, data=data)
         return self._handle_response(response)
 
     def get_board(self):

@@ -17,6 +17,7 @@ The `.env` file needs to contain Trello credentials:
 TRELLO_API_KEY=XXX
 TRELLO_API_SECRET=XXX
 TRELLO_API_TOKEN=XXX
+TRELLO_WEBHOOK_SECRET=XXX
 
 # Boards
 TRELLO_BOARD_ID_GAMING=XXX
@@ -42,6 +43,7 @@ TRELLO_LIST_COMPLETED_ID=XXX
 ## Resources
 
 The `resources` directory contains JSON files with my structured game data:
+
 - `board_data_raw.json`: The raw JSON output of fetching the Trello Board
 - `board_data.json`: Specific attributes both pulled from raw and computed in a JSON format. This is used in `updateTrelloCards.py` to inform the script how to update the cards
 

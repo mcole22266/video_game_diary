@@ -1,5 +1,57 @@
 {
-  "Staging": {
+  "Arcade - To Play": {
+    "1991-03-01 - SNES/Arcade - Street Fighter II": {
+      "Description": "Revolutionary fighting game that defined the genre with unique characters and special moves.",
+      "Device": "Arcade",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d6c8a1c11f764244367d",
+      "ShortUrl": "https://trello.com/c/zr6UKqBw",
+      "Release Date": "1991-03-01",
+      "System": "SNES/Arcade",
+      "Title": "Street Fighter II"
+    },
+    "1992-08-01 - SNES/Arcade - TMNT IV: Turtles in Time": {
+      "Description": "Classic beat 'em up featuring the Ninja Turtles traveling through different time periods.",
+      "Device": "Arcade",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d72380626d2b004e6dfe",
+      "ShortUrl": "https://trello.com/c/VQk6fRad",
+      "Release Date": "1992-08-01",
+      "System": "SNES/Arcade",
+      "Title": "TMNT IV: Turtles in Time"
+    }
+  },
+  "Modern Consoles - To Play": {
+    "1997-10-10 - PC - Fallout": {
+      "Description": "Classic post-apocalyptic RPG with turn-based combat and significant player choice.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460a12a5a2eb1e7eb55fe0",
+      "ShortUrl": "https://trello.com/c/DJF3VlzZ",
+      "Release Date": "1997-10-10",
+      "System": "PC",
+      "Title": "Fallout"
+    },
+    "1998-09-30 - PC - Fallout 2": {
+      "Description": "Expanded sequel with more complex quests, larger world, and darker humor.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460a1342236bf78962d30f",
+      "ShortUrl": "https://trello.com/c/eqyyy29N",
+      "Release Date": "1998-09-30",
+      "System": "PC",
+      "Title": "Fallout 2"
+    },
+    "1998-11-19 - PC - Half Life": {
+      "Description": "Revolutionary FPS with seamless storytelling and immersive sci-fi world.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608e8729fc83c2460b166",
+      "ShortUrl": "https://trello.com/c/qDzw99U1",
+      "Release Date": "1998-11-19",
+      "System": "PC",
+      "Title": "Half Life"
+    },
     "1998-12-21 - PC - Baldur's Gate": {
       "Description": "Classic isometric RPG based on D&D rules with real-time-with-pause combat.",
       "Device": "Modern Consoles",
@@ -20,176 +72,6 @@
       "System": "PC",
       "Title": "Baldur's Gate II"
     },
-    "2023-08-03 - PC - Baldur's Gate III": {
-      "Description": "Modern revival of the series with turn-based combat and cinematic storytelling.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684606e8e89f205a360bad04",
-      "ShortUrl": "https://trello.com/c/pO9uEpP6",
-      "Release Date": "2023-08-03",
-      "System": "PC",
-      "Title": "Baldur's Gate III"
-    },
-    "2007-11-05 - PC - Call of Duty 4: Modern Warfare": {
-      "Description": "Genre-defining cinematic military FPS with tight multiplayer.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460531ba965b7e750b753c",
-      "ShortUrl": "https://trello.com/c/gjN8aocI",
-      "Release Date": "2007-11-05",
-      "System": "PC",
-      "Title": "Call of Duty 4: Modern Warfare"
-    },
-    "2010-11-09 - PC - Call of Duty: Black Ops": {
-      "Description": "Cold War setting with strong campaign and Zombies mode.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684605599e148b354ea84bb1",
-      "ShortUrl": "https://trello.com/c/6AohYJ1h",
-      "Release Date": "2010-11-09",
-      "System": "PC",
-      "Title": "Call of Duty: Black Ops"
-    },
-    "2009-11-10 - PC - Call of Duty: Modern Warfare 2": {
-      "Description": "Explosive sequel with iconic missions and enhanced multiplayer.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684605455567583b89b5d911",
-      "ShortUrl": "https://trello.com/c/GiPi4Iu3",
-      "Release Date": "2009-11-10",
-      "System": "PC",
-      "Title": "Call of Duty: Modern Warfare 2"
-    },
-    "2023-10-31 - PC - Clair Obscur: Expedition 33": {
-      "Description": "Atmospheric horror adventure with puzzle elements and cosmic horror themes.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460649d84d8668f62dce5a",
-      "ShortUrl": "https://trello.com/c/jqttXJqO",
-      "Release Date": "2023-10-31",
-      "System": "PC",
-      "Title": "Clair Obscur: Expedition 33"
-    },
-    "2020-12-10 - PC - Cyberpunk 2077": {
-      "Description": "Open-world RPG set in a dystopian future with branching storylines and cybernetic enhancements.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6846068b0b9aa459c2c47709",
-      "ShortUrl": "https://trello.com/c/ZNRBEzkN",
-      "Release Date": "2020-12-10",
-      "System": "PC",
-      "Title": "Cyberpunk 2077"
-    },
-    "2004-09-14 - Xbox - Fable": {
-      "Description": "Fantasy RPG where player choices affect character appearance and the game world.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684609145edfede60a3e0ce1",
-      "ShortUrl": "https://trello.com/c/K1nRQfLy",
-      "Release Date": "2004-09-14",
-      "System": "Xbox",
-      "Title": "Fable"
-    },
-    "2008-10-21 - Xbox 360 - Fable II": {
-      "Description": "Sequel set 500 years after the original with expanded moral choices and dog companion.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460915f5c15f2c6f7272b8",
-      "ShortUrl": "https://trello.com/c/0yEmAZy5",
-      "Release Date": "2008-10-21",
-      "System": "Xbox 360",
-      "Title": "Fable II"
-    },
-    "2010-10-26 - Xbox 360 - Fable III": {
-      "Description": "Third entry focusing on revolution and ruling a kingdom with consequences for decisions.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460917921b6406795fa9fc",
-      "ShortUrl": "https://trello.com/c/LJzycDBn",
-      "Release Date": "2010-10-26",
-      "System": "Xbox 360",
-      "Title": "Fable III"
-    },
-    "2024-02-29 - PS5 - Final Fantasy VII Rebirth": {
-      "Description": "Second part of the FF7 remake trilogy with open world exploration and expanded story.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6846066bc971c135d56f9beb",
-      "ShortUrl": "https://trello.com/c/o9wksXVz",
-      "Release Date": "2024-02-29",
-      "System": "PS5",
-      "Title": "Final Fantasy VII Rebirth"
-    },
-    "2020-04-10 - PS4 - Final Fantasy VII Remake": {
-      "Description": "Modern reimagining of the classic RPG with action combat and expanded Midgar storyline.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6846066023054d7ecb67babd",
-      "ShortUrl": "https://trello.com/c/LHOiAMxN",
-      "Release Date": "2020-04-10",
-      "System": "PS4",
-      "Title": "Final Fantasy VII Remake"
-    },
-    "1998-11-19 - PC - Half Life": {
-      "Description": "Revolutionary FPS with seamless storytelling and immersive sci-fi world.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684608e8729fc83c2460b166",
-      "ShortUrl": "https://trello.com/c/qDzw99U1",
-      "Release Date": "1998-11-19",
-      "System": "PC",
-      "Title": "Half Life"
-    },
-    "2004-11-16 - PC - Half Life 2": {
-      "Description": "Landmark sequel with physics-based gameplay and dystopian setting.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684608eb56e83dcaa3b78bed",
-      "ShortUrl": "https://trello.com/c/cAnJihWX",
-      "Release Date": "2004-11-16",
-      "System": "PC",
-      "Title": "Half Life 2"
-    },
-    "2004-11-09 - Xbox - Halo 2": {
-      "Description": "Sequel with dual protagonist storyline and revolutionary online multiplayer.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684608fb421cdb116b17990f",
-      "ShortUrl": "https://trello.com/c/zKkFMlQi",
-      "Release Date": "2004-11-09",
-      "System": "Xbox",
-      "Title": "Halo 2"
-    },
-    "2007-09-25 - Xbox 360 - Halo 3": {
-      "Description": "Epic conclusion to the original trilogy with expanded multiplayer and Forge mode.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684608fdd7eba1978915be7a",
-      "ShortUrl": "https://trello.com/c/mO38aZ1s",
-      "Release Date": "2007-09-25",
-      "System": "Xbox 360",
-      "Title": "Halo 3"
-    },
-    "2009-09-22 - Xbox 360 - Halo 3: ODST": {
-      "Description": "Noir-inspired spin-off following elite human soldiers with open-world hub and flashback missions.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460901b323123de23a0faa",
-      "ShortUrl": "https://trello.com/c/w6u04u0p",
-      "Release Date": "2009-09-22",
-      "System": "Xbox 360",
-      "Title": "Halo 3: ODST"
-    },
-    "2012-11-06 - Xbox 360 - Halo 4": {
-      "Description": "First 343 Industries entry focusing on Master Chief's relationship with Cortana.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6846090e5a2d6d474f3c4b35",
-      "ShortUrl": "https://trello.com/c/RUaD9w18",
-      "Release Date": "2012-11-06",
-      "System": "Xbox 360",
-      "Title": "Halo 4"
-    },
     "2001-11-15 - Xbox - Halo: Combat Evolved": {
       "Description": "Groundbreaking sci-fi FPS that defined console shooters with regenerating shields and vehicle combat.",
       "Device": "Modern Consoles",
@@ -199,26 +81,6 @@
       "Release Date": "2001-11-15",
       "System": "Xbox",
       "Title": "Halo: Combat Evolved"
-    },
-    "2021-12-08 - Xbox Series X - Halo: Infinite": {
-      "Description": "Open-world entry with grappling hook mechanics and free-to-play multiplayer component.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460910c293722db3f952fe",
-      "ShortUrl": "https://trello.com/c/sBFfqArl",
-      "Release Date": "2021-12-08",
-      "System": "Xbox Series X",
-      "Title": "Halo: Infinite"
-    },
-    "2010-09-14 - Xbox 360 - Halo: Reach": {
-      "Description": "Prequel focusing on Noble Team's doomed mission with enhanced customization options.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6846090acfa7f63692882140",
-      "ShortUrl": "https://trello.com/c/5VDOMLdz",
-      "Release Date": "2010-09-14",
-      "System": "Xbox 360",
-      "Title": "Halo: Reach"
     },
     "2002-08-28 - PC - Mafia": {
       "Description": "Story-driven crime game set in 1930s with realistic driving and immersive city.",
@@ -230,6 +92,136 @@
       "System": "PC",
       "Title": "Mafia"
     },
+    "2004-09-14 - Xbox - Fable": {
+      "Description": "Fantasy RPG where player choices affect character appearance and the game world.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684609145edfede60a3e0ce1",
+      "ShortUrl": "https://trello.com/c/K1nRQfLy",
+      "Release Date": "2004-09-14",
+      "System": "Xbox",
+      "Title": "Fable"
+    },
+    "2004-11-09 - Xbox - Halo 2": {
+      "Description": "Sequel with dual protagonist storyline and revolutionary online multiplayer.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608fb421cdb116b17990f",
+      "ShortUrl": "https://trello.com/c/zKkFMlQi",
+      "Release Date": "2004-11-09",
+      "System": "Xbox",
+      "Title": "Halo 2"
+    },
+    "2004-11-16 - PC - Half Life 2": {
+      "Description": "Landmark sequel with physics-based gameplay and dystopian setting.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608eb56e83dcaa3b78bed",
+      "ShortUrl": "https://trello.com/c/cAnJihWX",
+      "Release Date": "2004-11-16",
+      "System": "PC",
+      "Title": "Half Life 2"
+    },
+    "2007-09-25 - Xbox 360 - Halo 3": {
+      "Description": "Epic conclusion to the original trilogy with expanded multiplayer and Forge mode.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608fdd7eba1978915be7a",
+      "ShortUrl": "https://trello.com/c/mO38aZ1s",
+      "Release Date": "2007-09-25",
+      "System": "Xbox 360",
+      "Title": "Halo 3"
+    },
+    "2007-10-23 - PS3 - Ratchet and Clank: Future Tools of Destruction": {
+      "Description": "First PS3 entry with enhanced graphics, new weapons, and expanded universe lore.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd90c68e5f950445a145",
+      "ShortUrl": "https://trello.com/c/MPaplmQ6",
+      "Release Date": "2007-10-23",
+      "System": "PS3",
+      "Title": "Ratchet and Clank: Future Tools of Destruction"
+    },
+    "2007-11-05 - PC - Call of Duty 4: Modern Warfare": {
+      "Description": "Genre-defining cinematic military FPS with tight multiplayer.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460531ba965b7e750b753c",
+      "ShortUrl": "https://trello.com/c/gjN8aocI",
+      "Release Date": "2007-11-05",
+      "System": "PC",
+      "Title": "Call of Duty 4: Modern Warfare"
+    },
+    "2008-04-29 - PS3 - Grand Theft Auto IV": {
+      "Description": "Gritty open-world crime drama set in Liberty City with realistic physics and narrative focus.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dde6a83832a141827b71",
+      "ShortUrl": "https://trello.com/c/0NJG5Y3y",
+      "Release Date": "2008-04-29",
+      "System": "PS3",
+      "Title": "Grand Theft Auto IV"
+    },
+    "2008-06-12 - PS3 - Metal Gear Solid 4: Guns of the Patriots": {
+      "Description": "Cinematic stealth action concluding Solid Snake's story with adaptive camouflage mechanics.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dce4f7f2418542869ea7",
+      "ShortUrl": "https://trello.com/c/dzoaTaN6",
+      "Release Date": "2008-06-12",
+      "System": "PS3",
+      "Title": "Metal Gear Solid 4: Guns of the Patriots"
+    },
+    "2008-10-21 - Xbox 360 - Fable II": {
+      "Description": "Sequel set 500 years after the original with expanded moral choices and dog companion.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460915f5c15f2c6f7272b8",
+      "ShortUrl": "https://trello.com/c/0yEmAZy5",
+      "Release Date": "2008-10-21",
+      "System": "Xbox 360",
+      "Title": "Fable II"
+    },
+    "2009-09-22 - Xbox 360 - Halo 3: ODST": {
+      "Description": "Noir-inspired spin-off following elite human soldiers with open-world hub and flashback missions.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460901b323123de23a0faa",
+      "ShortUrl": "https://trello.com/c/w6u04u0p",
+      "Release Date": "2009-09-22",
+      "System": "Xbox 360",
+      "Title": "Halo 3: ODST"
+    },
+    "2009-10-27 - PS3 - Ratchet and Clank: Future A Crack in Time": {
+      "Description": "Time-manipulation mechanics and dual gameplay between Ratchet and Clank's separate adventures.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd9fe755a3ee6b5350b3",
+      "ShortUrl": "https://trello.com/c/xm52OtN9",
+      "Release Date": "2009-10-27",
+      "System": "PS3",
+      "Title": "Ratchet and Clank: Future A Crack in Time"
+    },
+    "2009-11-10 - PC - Call of Duty: Modern Warfare 2": {
+      "Description": "Explosive sequel with iconic missions and enhanced multiplayer.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684605455567583b89b5d911",
+      "ShortUrl": "https://trello.com/c/GiPi4Iu3",
+      "Release Date": "2009-11-10",
+      "System": "PC",
+      "Title": "Call of Duty: Modern Warfare 2"
+    },
+    "2010-03-16 - PS3 - God of War III": {
+      "Description": "Epic conclusion to the Greek saga with massive scale, brutal combat, and titan battles.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dc9571f882783fcdd2e8",
+      "ShortUrl": "https://trello.com/c/8ZVt1RFy",
+      "Release Date": "2010-03-16",
+      "System": "PS3",
+      "Title": "God of War III"
+    },
     "2010-08-24 - PC - Mafia II": {
       "Description": "Open-world 1950s crime drama with enhanced visuals.",
       "Device": "Modern Consoles",
@@ -240,85 +232,65 @@
       "System": "PC",
       "Title": "Mafia II"
     },
-    "2016-10-07 - PC - Mafia III": {
-      "Description": "Gritty 1968 open-world story of revenge and racial tension.",
+    "2010-09-14 - Xbox 360 - Halo: Reach": {
+      "Description": "Prequel focusing on Noble Team's doomed mission with enhanced customization options.",
       "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684605fe37470f4326419e4c",
-      "ShortUrl": "https://trello.com/c/izfi3kXY",
-      "Release Date": "2016-10-07",
-      "System": "PC",
-      "Title": "Mafia III"
+      "CardId": "6846090acfa7f63692882140",
+      "ShortUrl": "https://trello.com/c/5VDOMLdz",
+      "Release Date": "2010-09-14",
+      "System": "Xbox 360",
+      "Title": "Halo: Reach"
     },
-    "2022-11-15 - PC - Pentiment": {
-      "Description": "Historical narrative adventure set in 16th century Bavaria with unique art style.",
+    "2010-10-26 - Xbox 360 - Fable III": {
+      "Description": "Third entry focusing on revolution and ruling a kingdom with consequences for decisions.",
       "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6846069b6cfb035593d35d29",
-      "ShortUrl": "https://trello.com/c/IX36HbJZ",
-      "Release Date": "2022-11-15",
-      "System": "PC",
-      "Title": "Pentiment"
+      "CardId": "68460917921b6406795fa9fc",
+      "ShortUrl": "https://trello.com/c/LJzycDBn",
+      "Release Date": "2010-10-26",
+      "System": "Xbox 360",
+      "Title": "Fable III"
     },
-    "2021-05-27 - PC - Solasta: Crown of the Magister": {
-      "Description": "Tactical RPG with faithful D&D 5e implementation and vertical exploration elements.",
+    "2010-11-09 - PC - Call of Duty: Black Ops": {
+      "Description": "Cold War setting with strong campaign and Zombies mode.",
       "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6846062c51cd97dc885121ed",
-      "ShortUrl": "https://trello.com/c/IzbQpxu1",
-      "Release Date": "2021-05-27",
+      "CardId": "684605599e148b354ea84bb1",
+      "ShortUrl": "https://trello.com/c/6AohYJ1h",
+      "Release Date": "2010-11-09",
       "System": "PC",
-      "Title": "Solasta: Crown of the Magister"
+      "Title": "Call of Duty: Black Ops"
     },
-    "2019-11-15 - PC - Star Wars Jedi: Fallen Order": {
-      "Description": "Souls-like Star Wars adventure with lightsaber combat and Force powers.",
+    "2010-11-16 - PS3 - Need for Speed: Hot Pursuit": {
+      "Description": "High-speed racing with exotic cars and police chases featuring Autolog social features.",
       "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684607050a64b4cfe00dd6b8",
-      "ShortUrl": "https://trello.com/c/jyrDRlQr",
-      "Release Date": "2019-11-15",
-      "System": "PC",
-      "Title": "Star Wars Jedi: Fallen Order"
+      "CardId": "6845dea7890272323758814e",
+      "ShortUrl": "https://trello.com/c/0ej7k1Nz",
+      "Release Date": "2010-11-16",
+      "System": "PS3",
+      "Title": "Need for Speed: Hot Pursuit"
     },
-    "2023-04-28 - PC - Star Wars Jedi: Survivor": {
-      "Description": "Sequel with expanded combat styles and more open world exploration.",
+    "2012-11-06 - Xbox 360 - Halo 4": {
+      "Description": "First 343 Industries entry focusing on Master Chief's relationship with Cortana.",
       "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460714ed00ed23b7a8262d",
-      "ShortUrl": "https://trello.com/c/tZvhfwzl",
-      "Release Date": "2023-04-28",
-      "System": "PC",
-      "Title": "Star Wars Jedi: Survivor"
+      "CardId": "6846090e5a2d6d474f3c4b35",
+      "ShortUrl": "https://trello.com/c/RUaD9w18",
+      "Release Date": "2012-11-06",
+      "System": "Xbox 360",
+      "Title": "Halo 4"
     },
-    "1991-08-02 - Genesis - Streets of Rage": {
-      "Description": "Classic side-scrolling beat 'em up with memorable soundtrack by Yuzo Koshiro.",
-      "Device": "Trimui Brick",
+    "2013-03-12 - PS3 - God of War Ascension": {
+      "Description": "Prequel with elemental powers, refined combat, and multiplayer mode.",
+      "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684608d8038e275933b1e299",
-      "ShortUrl": "https://trello.com/c/aHl5hp9y",
-      "Release Date": "1991-08-02",
-      "System": "Genesis",
-      "Title": "Streets of Rage"
-    },
-    "1992-12-20 - Genesis - Streets of Rage 2": {
-      "Description": "Improved sequel with larger sprites, more moves, and enhanced level design.",
-      "Device": "Trimui Brick",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684608dca5552f000f72154e",
-      "ShortUrl": "https://trello.com/c/lSU0X9T8",
-      "Release Date": "1992-12-20",
-      "System": "Genesis",
-      "Title": "Streets of Rage 2"
-    },
-    "1994-03-17 - Genesis - Streets of Rage 3": {
-      "Description": "Final Genesis entry with faster gameplay, multiple endings, and character-specific moves.",
-      "Device": "Trimui Brick",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684608dfb7bb17451b9abd77",
-      "ShortUrl": "https://trello.com/c/R51v4Vdg",
-      "Release Date": "1994-03-17",
-      "System": "Genesis",
-      "Title": "Streets of Rage 3"
+      "CardId": "6845dca465741f2659237953",
+      "ShortUrl": "https://trello.com/c/Fny6wtjH",
+      "Release Date": "2013-03-12",
+      "System": "PS3",
+      "Title": "God of War Ascension"
     },
     "2015-02-20 - PS4 - The Order: 1886": {
       "Description": "Cinematic third-person shooter set in alternate Victorian London with werewolves.",
@@ -330,6 +302,66 @@
       "System": "PS4",
       "Title": "The Order: 1886"
     },
+    "2016-04-12 - PS4 - Ratch and Clank": {
+      "Description": "Reimagining of the original with modern graphics and refined gameplay mechanics.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dda77e2d5205105bb578",
+      "ShortUrl": "https://trello.com/c/2cCfh1IU",
+      "Release Date": "2016-04-12",
+      "System": "PS4",
+      "Title": "Ratch and Clank"
+    },
+    "2016-10-07 - PC - Mafia III": {
+      "Description": "Gritty 1968 open-world story of revenge and racial tension.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684605fe37470f4326419e4c",
+      "ShortUrl": "https://trello.com/c/izfi3kXY",
+      "Release Date": "2016-10-07",
+      "System": "PC",
+      "Title": "Mafia III"
+    },
+    "2018-04-20 - PS4 - God of War": {
+      "Description": "Norse mythology reboot with father-son narrative and over-the-shoulder combat.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dcb24388b63466f11bce",
+      "ShortUrl": "https://trello.com/c/bska0NQ6",
+      "Release Date": "2018-04-20",
+      "System": "PS4",
+      "Title": "God of War"
+    },
+    "2016-05-13 - PC - Doom (2016)": {
+      "Description": "Modern reboot with fast-paced combat, glory kills, and heavy metal soundtrack.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5d4471a61e4f744ae21",
+      "ShortUrl": "https://trello.com/c/XcAjaLE2",
+      "Release Date": "2016-05-13",
+      "System": "PC",
+      "Title": "Doom (2016)"
+    },
+    "2019-01-29 - PS4 - Kingdom Hearts III": {
+      "Description": "Long-awaited conclusion to the Xehanort saga with modern Disney worlds and flashy combat.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dd37d599724d2fe3e156",
+      "ShortUrl": "https://trello.com/c/kStL5FES",
+      "Release Date": "2019-01-29",
+      "System": "PS4",
+      "Title": "Kingdom Hearts III"
+    },
+    "2020-03-20 - PC - Doom Eternal": {
+      "Description": "Sequel to Doom (2016) with enhanced mobility, new weapons, and expanded lore.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5d775a615e7d1ec888e",
+      "ShortUrl": "https://trello.com/c/NCEIAMnW",
+      "Release Date": "2020-03-20",
+      "System": "PC",
+      "Title": "Doom Eternal"
+    },
     "2019-10-25 - PC - The Outer Worlds": {
       "Description": "Sci-fi RPG with corporate dystopia setting and choice-driven gameplay.",
       "Device": "Modern Consoles",
@@ -340,15 +372,25 @@
       "System": "PC",
       "Title": "The Outer Worlds"
     },
-    "2022-03-25 - PC - Tiny Tina's Wonderlands": {
-      "Description": "Fantasy Borderlands spin-off with tabletop RPG theme and D&D-inspired gameplay.",
+    "2024-12-31 - PC - Doom: The Dark Ages": {
+      "Description": "Upcoming Doom title set in a medieval fantasy setting with demonic enemies.",
       "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "684606a7a86536e3a17be142",
-      "ShortUrl": "https://trello.com/c/RVz7ztvi",
-      "Release Date": "2022-03-25",
+      "CardId": "6848d5e1288b47933758349f",
+      "ShortUrl": "https://trello.com/c/Q0WHbQC8",
+      "Release Date": "2024-12-31",
       "System": "PC",
-      "Title": "Tiny Tina's Wonderlands"
+      "Title": "Doom: The Dark Ages"
+    },
+    "2019-11-15 - PC - Star Wars Jedi: Fallen Order": {
+      "Description": "Souls-like Star Wars adventure with lightsaber combat and Force powers.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684607050a64b4cfe00dd6b8",
+      "ShortUrl": "https://trello.com/c/jyrDRlQr",
+      "Release Date": "2019-11-15",
+      "System": "PC",
+      "Title": "Star Wars Jedi: Fallen Order"
     },
     "2020-08-28 - PC - Wasteland 3": {
       "Description": "Post-apocalyptic tactical RPG with squad-based combat and branching narrative.",
@@ -360,38 +402,198 @@
       "System": "PC",
       "Title": "Wasteland 3"
     },
-    "1997-10-10 - PC - Fallout": {
-      "Description": "Classic post-apocalyptic RPG with turn-based combat and significant player choice.",
+    "2021-05-27 - PC - Solasta: Crown of the Magister": {
+      "Description": "Tactical RPG with faithful D&D 5e implementation and vertical exploration elements.",
       "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460a12a5a2eb1e7eb55fe0",
-      "ShortUrl": "https://trello.com/c/DJF3VlzZ",
-      "Release Date": "1997-10-10",
+      "CardId": "6846062c51cd97dc885121ed",
+      "ShortUrl": "https://trello.com/c/IzbQpxu1",
+      "Release Date": "2021-05-27",
       "System": "PC",
-      "Title": "Fallout"
+      "Title": "Solasta: Crown of the Magister"
     },
-    "1998-09-30 - PC - Fallout 2": {
-      "Description": "Expanded sequel with more complex quests, larger world, and darker humor.",
+    "2021-06-11 - PS5 - Ratchet and Clank: Rift Apart": {
+      "Description": "PS5 showcase with dimensional rifts, new playable character, and instant loading.",
       "Device": "Modern Consoles",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "68460a1342236bf78962d30f",
-      "ShortUrl": "https://trello.com/c/eqyyy29N",
-      "Release Date": "1998-09-30",
+      "CardId": "6845ddb81725775c86b127cf",
+      "ShortUrl": "https://trello.com/c/MpWAyJWm",
+      "Release Date": "2021-06-11",
+      "System": "PS5",
+      "Title": "Ratchet and Clank: Rift Apart"
+    },
+    "2021-12-08 - Xbox Series X - Halo: Infinite": {
+      "Description": "Open-world entry with grappling hook mechanics and free-to-play multiplayer component.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460910c293722db3f952fe",
+      "ShortUrl": "https://trello.com/c/sBFfqArl",
+      "Release Date": "2021-12-08",
+      "System": "Xbox Series X",
+      "Title": "Halo: Infinite"
+    },
+    "2007-11-20 - Xbox 360 - Mass Effect": {
+      "Description": "Sci-fi RPG with third-person combat, dialogue choices, and rich universe building.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5fa331ca7997def8dcd",
+      "ShortUrl": "https://trello.com/c/BdQIjOq5",
+      "Release Date": "2007-11-20",
+      "System": "Xbox 360",
+      "Title": "Mass Effect"
+    },
+    "2022-03-25 - PC - Tiny Tina's Wonderlands": {
+      "Description": "Fantasy Borderlands spin-off with tabletop RPG theme and D&D-inspired gameplay.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684606a7a86536e3a17be142",
+      "ShortUrl": "https://trello.com/c/RVz7ztvi",
+      "Release Date": "2022-03-25",
       "System": "PC",
-      "Title": "Fallout 2"
+      "Title": "Tiny Tina's Wonderlands"
+    },
+    "2010-01-26 - Xbox 360 - Mass Effect 2": {
+      "Description": "Sequel with improved combat, loyalty missions, and high-stakes suicide mission finale.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5fd16b76293dbeef580",
+      "ShortUrl": "https://trello.com/c/4NK4ncNF",
+      "Release Date": "2010-01-26",
+      "System": "Xbox 360",
+      "Title": "Mass Effect 2"
+    },
+    "2022-06-16 - PS5 - TMNT: Shredder's Revenge": {
+      "Description": "Modern beat 'em up inspired by the arcade classics with 6-player co-op and retro style.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845d7321c84a4c9ee7a4e51",
+      "ShortUrl": "https://trello.com/c/grTGVe2Z",
+      "Release Date": "2022-06-16",
+      "System": "PS5",
+      "Title": "TMNT: Shredder's Revenge"
+    },
+    "2012-03-06 - Xbox 360 - Mass Effect 3": {
+      "Description": "Trilogy conclusion with refined combat, multiplayer mode, and galactic war storyline.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5ff76f876e99807a6a5",
+      "ShortUrl": "https://trello.com/c/6B9I6PU2",
+      "Release Date": "2012-03-06",
+      "System": "Xbox 360",
+      "Title": "Mass Effect 3"
+    },
+    "2022-11-09 - PS5 - God of War: Ragnarok": {
+      "Description": "Epic conclusion to the Norse saga with all nine realms and expanded combat options.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6845dcbacd084803d8627321",
+      "ShortUrl": "https://trello.com/c/4tCp5Qdn",
+      "Release Date": "2022-11-09",
+      "System": "PS5",
+      "Title": "God of War: Ragnarok"
+    },
+    "2022-11-15 - PC - Pentiment": {
+      "Description": "Historical narrative adventure set in 16th century Bavaria with unique art style.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846069b6cfb035593d35d29",
+      "ShortUrl": "https://trello.com/c/IX36HbJZ",
+      "Release Date": "2022-11-15",
+      "System": "PC",
+      "Title": "Pentiment"
+    },
+    "2009-11-03 - PC - Dragon Age: Origins": {
+      "Description": "Dark fantasy RPG with tactical combat, origin stories, and meaningful choices.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d61b670922093f64b40c",
+      "ShortUrl": "https://trello.com/c/wBaEg4YV",
+      "Release Date": "2009-11-03",
+      "System": "PC",
+      "Title": "Dragon Age: Origins"
+    },
+    "2023-04-28 - PC - Star Wars Jedi: Survivor": {
+      "Description": "Sequel with expanded combat styles and more open world exploration.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "68460714ed00ed23b7a8262d",
+      "ShortUrl": "https://trello.com/c/tZvhfwzl",
+      "Release Date": "2023-04-28",
+      "System": "PC",
+      "Title": "Star Wars Jedi: Survivor"
+    },
+    "2011-03-08 - PC - Dragon Age II": {
+      "Description": "Action-focused sequel set in a single city over a decade with faster combat.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d61ff0405bfa79df6da4",
+      "ShortUrl": "https://trello.com/c/QQXFyFXv",
+      "Release Date": "2011-03-08",
+      "System": "PC",
+      "Title": "Dragon Age II"
+    },
+    "2023-08-03 - PC - Baldur's Gate III": {
+      "Description": "Modern revival of the series with turn-based combat and cinematic storytelling.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684606e8e89f205a360bad04",
+      "ShortUrl": "https://trello.com/c/pO9uEpP6",
+      "Release Date": "2023-08-03",
+      "System": "PC",
+      "Title": "Baldur's Gate III"
+    },
+    "2007-08-21 - Xbox 360 - BioShock": {
+      "Description": "Atmospheric first-person shooter with plasmid powers set in underwater dystopia Rapture.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d621ac8a9356bbc4ad5f",
+      "ShortUrl": "https://trello.com/c/gA5Fkj8d",
+      "Release Date": "2007-08-21",
+      "System": "Xbox 360",
+      "Title": "BioShock"
+    },
+    "2024-02-29 - PS5 - Final Fantasy VII Rebirth": {
+      "Description": "Second part of the FF7 remake trilogy with open world exploration and expanded story.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6846066bc971c135d56f9beb",
+      "ShortUrl": "https://trello.com/c/o9wksXVz",
+      "Release Date": "2024-02-29",
+      "System": "PS5",
+      "Title": "Final Fantasy VII Rebirth"
+    },
+    "2010-02-09 - Xbox 360 - BioShock 2": {
+      "Description": "Sequel where you play as a Big Daddy with drill arm and enhanced plasmid powers.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d6255e902af3157cb176",
+      "ShortUrl": "https://trello.com/c/1mrpGflm",
+      "Release Date": "2010-02-09",
+      "System": "Xbox 360",
+      "Title": "BioShock 2"
+    },
+    "2013-03-26 - PC - BioShock Infinite": {
+      "Description": "Sky-city setting with dimensional themes, vigors, and skyline combat mechanics.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d629a09d50f6ff7d3800",
+      "ShortUrl": "https://trello.com/c/I9wlRcwZ",
+      "Release Date": "2013-03-26",
+      "System": "PC",
+      "Title": "BioShock Infinite"
+    },
+    "2017-02-24 - PC - Hollow Knight": {
+      "Description": "Atmospheric metroidvania with tight combat, challenging bosses, and haunting art style.",
+      "Device": "Modern Consoles",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d62c9458c7c801482abd",
+      "ShortUrl": "https://trello.com/c/g7P8jCuF",
+      "Release Date": "2017-02-24",
+      "System": "PC",
+      "Title": "Hollow Knight"
     }
   },
   "Trimui Brick - To Play": {
-    "1985-10-18 - NES - Super Mario Bros.": {
-      "Description": "The game that defined platforming and launched the Mario franchise.",
-      "Device": "Trimui Brick",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845d2c913fcdb25049ff635",
-      "ShortUrl": "https://trello.com/c/Ko3av6xP",
-      "Release Date": "1985-10-18",
-      "System": "NES",
-      "Title": "Super Mario Bros."
-    },
     "1987-08-15 - NES - Metroid": {
       "Description": "Pioneering non-linear exploration game blending action and discovery.",
       "Device": "Trimui Brick",
@@ -462,6 +664,16 @@
       "System": "NES",
       "Title": "Super Mario Bros. 3"
     },
+    "1991-08-02 - Genesis - Streets of Rage": {
+      "Description": "Classic side-scrolling beat 'em up with memorable soundtrack by Yuzo Koshiro.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608d8038e275933b1e299",
+      "ShortUrl": "https://trello.com/c/aHl5hp9y",
+      "Release Date": "1991-08-02",
+      "System": "Genesis",
+      "Title": "Streets of Rage"
+    },
     "1991-08-13 - SNES - Super Mario World": {
       "Description": "Launch title for the SNES featuring Yoshi and expansive world design.",
       "Device": "Trimui Brick",
@@ -492,6 +704,16 @@
       "System": "SNES",
       "Title": "Legend of Zelda: A Link to the Past"
     },
+    "1992-12-20 - Genesis - Streets of Rage 2": {
+      "Description": "Improved sequel with larger sprites, more moves, and enhanced level design.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608dca5552f000f72154e",
+      "ShortUrl": "https://trello.com/c/lSU0X9T8",
+      "Release Date": "1992-12-20",
+      "System": "Genesis",
+      "Title": "Streets of Rage 2"
+    },
     "1993-08-06 - Game Boy - Legend of Zelda: Link's Awakening": {
       "Description": "Portable adventure with a mysterious island setting and crossover Nintendo characters.",
       "Device": "Trimui Brick",
@@ -501,6 +723,16 @@
       "Release Date": "1993-08-06",
       "System": "Game Boy",
       "Title": "Legend of Zelda: Link's Awakening"
+    },
+    "1994-03-17 - Genesis - Streets of Rage 3": {
+      "Description": "Final Genesis entry with faster gameplay, multiple endings, and character-specific moves.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "684608dfb7bb17451b9abd77",
+      "ShortUrl": "https://trello.com/c/R51v4Vdg",
+      "Release Date": "1994-03-17",
+      "System": "Genesis",
+      "Title": "Streets of Rage 3"
     },
     "1994-03-19 - SNES - Super Metroid": {
       "Description": "Atmospheric sci-fi adventure that perfected the exploration-based gameplay formula.",
@@ -601,6 +833,86 @@
       "Release Date": "2002-11-17",
       "System": "Game Boy Advance",
       "Title": "Metroid Fusion"
+    },
+    "1993-12-10 - DOS - Doom": {
+      "Description": "Groundbreaking first-person shooter that defined the genre with fast-paced action and demonic enemies.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5c91d1ea5b76eaf1826",
+      "ShortUrl": "https://trello.com/c/ksm32nKq",
+      "Release Date": "1993-12-10",
+      "System": "DOS",
+      "Title": "Doom"
+    },
+    "1994-09-30 - DOS - Doom II: Hell on Earth": {
+      "Description": "Sequel to Doom with new weapons, larger levels, and the iconic Super Shotgun.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5cf2da24ee0dbce16bd",
+      "ShortUrl": "https://trello.com/c/6ToC8mij",
+      "Release Date": "1994-09-30",
+      "System": "DOS",
+      "Title": "Doom II: Hell on Earth"
+    },
+    "1991-03-04 - Arcade - The Simpsons Arcade": {
+      "Description": "Classic beat 'em up featuring the Simpsons family rescuing Maggie from Smithers.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5e81c582d66dd3a75ee",
+      "ShortUrl": "https://trello.com/c/cTQ4FO90",
+      "Release Date": "1991-03-04",
+      "System": "Arcade",
+      "Title": "The Simpsons Arcade"
+    },
+    "1992-12-01 - Arcade - X-Men Arcade": {
+      "Description": "Six-player beat 'em up featuring X-Men characters fighting against Magneto.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5ed64c1984e9fade89d",
+      "ShortUrl": "https://trello.com/c/l2vrfwVf",
+      "Release Date": "1992-12-01",
+      "System": "Arcade",
+      "Title": "X-Men Arcade"
+    },
+    "1987-02-20 - NES - Contra": {
+      "Description": "Challenging run-and-gun action game with co-op play and the famous Konami code.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5f20616a8d26d76e618",
+      "ShortUrl": "https://trello.com/c/ilIU4jIf",
+      "Release Date": "1987-02-20",
+      "System": "NES",
+      "Title": "Contra"
+    },
+    "1990-02-02 - NES - Super C": {
+      "Description": "Sequel to Contra with top-down stages and enhanced graphics and gameplay.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5f404a5090015632d64",
+      "ShortUrl": "https://trello.com/c/2aoyIuJv",
+      "Release Date": "1990-02-02",
+      "System": "NES",
+      "Title": "Super C"
+    },
+    "1992-02-28 - SNES - Contra III: The Alien Wars": {
+      "Description": "16-bit entry with enhanced graphics, Mode 7 top-down stages, and dual-wielding weapons.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d5f84e413435dbd09b4a",
+      "ShortUrl": "https://trello.com/c/KuZRvZBx",
+      "Release Date": "1992-02-28",
+      "System": "SNES",
+      "Title": "Contra III: The Alien Wars"
+    },
+    "2014-06-26 - PC - Shovel Knight": {
+      "Description": "Retro-inspired platformer with NES aesthetics, tight controls, and multiple campaigns.",
+      "Device": "Trimui Brick",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d62e570d4db54c8bb50a",
+      "ShortUrl": "https://trello.com/c/sFbPC5xf",
+      "Release Date": "2014-06-26",
+      "System": "PC",
+      "Title": "Shovel Knight"
     },
     "2004-02-09 - Game Boy Advance - Metroid: Zero Mission": {
       "Description": "Enhanced remake of the original Metroid with modern gameplay and additional content.",
@@ -884,6 +1196,76 @@
       "System": "PS2",
       "Title": "Jak and Daxter: The Precursor Legacy"
     },
+    "1996-09-09 - PS1 - Crash Bandicoot": {
+      "Description": "3D platformer where players control Crash through the Wumpa Islands to stop Doctor Neo Cortex's plans.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848cfa295df080f01cc21ff",
+      "ShortUrl": "https://trello.com/c/ojBjY8B8",
+      "Release Date": "1996-09-09",
+      "System": "PS1",
+      "Title": "Crash Bandicoot"
+    },
+    "1997-11-01 - PS1 - Crash Bandicoot 2: Cortex Strikes Back": {
+      "Description": "Sequel with improved controls, more varied levels, and new moves like sliding and body slam.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848cfae388273cc1c764ebb",
+      "ShortUrl": "https://trello.com/c/cjd6Efa3",
+      "Release Date": "1997-11-01",
+      "System": "PS1",
+      "Title": "Crash Bandicoot 2: Cortex Strikes Back"
+    },
+    "1998-10-31 - PS1 - Crash Bandicoot 3: Warped": {
+      "Description": "Time-traveling adventure with vehicle segments, new abilities, and refined gameplay.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848cfb7aa5f8d1fbed5b8e3",
+      "ShortUrl": "https://trello.com/c/9Hkp1TY7",
+      "Release Date": "1998-10-31",
+      "System": "PS1",
+      "Title": "Crash Bandicoot 3: Warped"
+    },
+    "1998-09-09 - PS1 - Spyro the Dragon": {
+      "Description": "3D platformer starring a young purple dragon who must free his fellow dragons from crystal prisons.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848cfb99186de08b218d3d0",
+      "ShortUrl": "https://trello.com/c/7vZL6M3i",
+      "Release Date": "1998-09-09",
+      "System": "PS1",
+      "Title": "Spyro the Dragon"
+    },
+    "1999-11-02 - PS1 - Spyro 2: Ripto's Rage": {
+      "Description": "Sequel with expanded abilities, mini-games, and more diverse worlds to explore.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848cfbfb761693b94506a15",
+      "ShortUrl": "https://trello.com/c/vaoC4PXk",
+      "Release Date": "1999-11-02",
+      "System": "PS1",
+      "Title": "Spyro 2: Ripto's Rage"
+    },
+    "2000-10-24 - PS1 - Spyro: Year of the Dragon": {
+      "Description": "Third entry featuring multiple playable characters with unique abilities and skateboarding segments.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848cfc776c27c73579bf9ae",
+      "ShortUrl": "https://trello.com/c/NJtXQbU7",
+      "Release Date": "2000-10-24",
+      "System": "PS1",
+      "Title": "Spyro: Year of the Dragon"
+    },
+    "2003-07-15 - Xbox - Knights of the Old Republic": {
+      "Description": "Star Wars RPG with turn-based combat, moral choices, and iconic plot twist.",
+      "Device": "Retroid Pocket 5",
+      "BoardId": "6845d20d25409836fe966019",
+      "CardId": "6848d61454bae04832809f21",
+      "ShortUrl": "https://trello.com/c/T6L0jBXe",
+      "Release Date": "2003-07-15",
+      "System": "Xbox",
+      "Title": "Knights of the Old Republic"
+    },
     "2002-05-29 - PS2 - Medal of Honor: Frontline": {
       "Description": "WWII FPS featuring D-Day landing and missions behind enemy lines in occupied Europe.",
       "Device": "Retroid Pocket 5",
@@ -1003,16 +1385,6 @@
       "Release Date": "2003-11-11",
       "System": "PS2",
       "Title": "Ratchet and Clank: Going Commando"
-    },
-    "2003-11-17 - PS2 - Need for Speed: Underground": {
-      "Description": "Street racing game with extensive car customization inspired by tuner culture.",
-      "Device": "Retroid Pocket 5",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845de77a3cb514653e4d706",
-      "ShortUrl": "https://trello.com/c/8m6AEQoU",
-      "Release Date": "2003-11-17",
-      "System": "PS2",
-      "Title": "Need for Speed: Underground"
     },
     "2003-11-18 - PS2 - 007: Everything or Nothing": {
       "Description": "Third-person Bond adventure with Hollywood cast and cinematic presentation.",
@@ -1215,161 +1587,60 @@
       "Title": "Kingdom Hearts: Birth by Sleep"
     }
   },
-  "Modern Consoles - To Play": {
-    "2007-10-23 - PS3 - Ratchet and Clank: Future Tools of Destruction": {
-      "Description": "First PS3 entry with enhanced graphics, new weapons, and expanded universe lore.",
-      "Device": "Modern Consoles",
+  "Playing": {
+    "1985-10-18 - NES - Super Mario Bros.": {
+      "Description": "The game that defined platforming and launched the Mario franchise.",
+      "Device": "",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dd90c68e5f950445a145",
-      "ShortUrl": "https://trello.com/c/MPaplmQ6",
-      "Release Date": "2007-10-23",
-      "System": "PS3",
-      "Title": "Ratchet and Clank: Future Tools of Destruction"
+      "CardId": "6845d2c913fcdb25049ff635",
+      "ShortUrl": "https://trello.com/c/Ko3av6xP",
+      "Release Date": "1985-10-18",
+      "System": "NES",
+      "Title": "Super Mario Bros."
     },
-    "2008-04-29 - PS3 - Grand Theft Auto IV": {
-      "Description": "Gritty open-world crime drama set in Liberty City with realistic physics and narrative focus.",
-      "Device": "Modern Consoles",
+    "2003-11-17 - PS2 - Need for Speed: Underground": {
+      "Description": "Street racing game with extensive car customization inspired by tuner culture.",
+      "Device": "",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dde6a83832a141827b71",
-      "ShortUrl": "https://trello.com/c/0NJG5Y3y",
-      "Release Date": "2008-04-29",
-      "System": "PS3",
-      "Title": "Grand Theft Auto IV"
+      "CardId": "6845de77a3cb514653e4d706",
+      "ShortUrl": "https://trello.com/c/8m6AEQoU",
+      "Release Date": "2003-11-17",
+      "System": "PS2",
+      "Title": "Need for Speed: Underground"
     },
-    "2008-06-12 - PS3 - Metal Gear Solid 4: Guns of the Patriots": {
-      "Description": "Cinematic stealth action concluding Solid Snake's story with adaptive camouflage mechanics.",
-      "Device": "Modern Consoles",
+    "2023-10-31 - PC - Clair Obscur: Expedition 33": {
+      "Description": "Atmospheric horror adventure with puzzle elements and cosmic horror themes.",
+      "Device": "",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dce4f7f2418542869ea7",
-      "ShortUrl": "https://trello.com/c/dzoaTaN6",
-      "Release Date": "2008-06-12",
-      "System": "PS3",
-      "Title": "Metal Gear Solid 4: Guns of the Patriots"
-    },
-    "2009-10-27 - PS3 - Ratchet and Clank: Future A Crack in Time": {
-      "Description": "Time-manipulation mechanics and dual gameplay between Ratchet and Clank's separate adventures.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dd9fe755a3ee6b5350b3",
-      "ShortUrl": "https://trello.com/c/xm52OtN9",
-      "Release Date": "2009-10-27",
-      "System": "PS3",
-      "Title": "Ratchet and Clank: Future A Crack in Time"
-    },
-    "2010-03-16 - PS3 - God of War III": {
-      "Description": "Epic conclusion to the Greek saga with massive scale, brutal combat, and titan battles.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dc9571f882783fcdd2e8",
-      "ShortUrl": "https://trello.com/c/8ZVt1RFy",
-      "Release Date": "2010-03-16",
-      "System": "PS3",
-      "Title": "God of War III"
-    },
-    "2010-11-16 - PS3 - Need for Speed: Hot Pursuit": {
-      "Description": "High-speed racing with exotic cars and police chases featuring Autolog social features.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dea7890272323758814e",
-      "ShortUrl": "https://trello.com/c/0ej7k1Nz",
-      "Release Date": "2010-11-16",
-      "System": "PS3",
-      "Title": "Need for Speed: Hot Pursuit"
-    },
-    "2013-03-12 - PS3 - God of War Ascension": {
-      "Description": "Prequel with elemental powers, refined combat, and multiplayer mode.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dca465741f2659237953",
-      "ShortUrl": "https://trello.com/c/Fny6wtjH",
-      "Release Date": "2013-03-12",
-      "System": "PS3",
-      "Title": "God of War Ascension"
-    },
-    "2016-04-12 - PS4 - Ratch and Clank": {
-      "Description": "Reimagining of the original with modern graphics and refined gameplay mechanics.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dda77e2d5205105bb578",
-      "ShortUrl": "https://trello.com/c/2cCfh1IU",
-      "Release Date": "2016-04-12",
-      "System": "PS4",
-      "Title": "Ratch and Clank"
-    },
-    "2018-04-20 - PS4 - God of War": {
-      "Description": "Norse mythology reboot with father-son narrative and over-the-shoulder combat.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dcb24388b63466f11bce",
-      "ShortUrl": "https://trello.com/c/bska0NQ6",
-      "Release Date": "2018-04-20",
-      "System": "PS4",
-      "Title": "God of War"
-    },
-    "2019-01-29 - PS4 - Kingdom Hearts III": {
-      "Description": "Long-awaited conclusion to the Xehanort saga with modern Disney worlds and flashy combat.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dd37d599724d2fe3e156",
-      "ShortUrl": "https://trello.com/c/kStL5FES",
-      "Release Date": "2019-01-29",
-      "System": "PS4",
-      "Title": "Kingdom Hearts III"
-    },
-    "2021-06-11 - PS5 - Ratchet and Clank: Rift Apart": {
-      "Description": "PS5 showcase with dimensional rifts, new playable character, and instant loading.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845ddb81725775c86b127cf",
-      "ShortUrl": "https://trello.com/c/MpWAyJWm",
-      "Release Date": "2021-06-11",
-      "System": "PS5",
-      "Title": "Ratchet and Clank: Rift Apart"
-    },
-    "2022-06-16 - PS5 - TMNT: Shredder's Revenge": {
-      "Description": "Modern beat 'em up inspired by the arcade classics with 6-player co-op and retro style.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845d7321c84a4c9ee7a4e51",
-      "ShortUrl": "https://trello.com/c/grTGVe2Z",
-      "Release Date": "2022-06-16",
-      "System": "PS5",
-      "Title": "TMNT: Shredder's Revenge"
-    },
-    "2022-11-09 - PS5 - God of War: Ragnarok": {
-      "Description": "Epic conclusion to the Norse saga with all nine realms and expanded combat options.",
-      "Device": "Modern Consoles",
-      "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845dcbacd084803d8627321",
-      "ShortUrl": "https://trello.com/c/4tCp5Qdn",
-      "Release Date": "2022-11-09",
-      "System": "PS5",
-      "Title": "God of War: Ragnarok"
+      "CardId": "68460649d84d8668f62dce5a",
+      "ShortUrl": "https://trello.com/c/jqttXJqO",
+      "Release Date": "2023-10-31",
+      "System": "PC",
+      "Title": "Clair Obscur: Expedition 33"
     }
   },
-  "Arcade - To Play": {
-    "1991-03-01 - SNES/Arcade - Street Fighter II": {
-      "Description": "Revolutionary fighting game that defined the genre with unique characters and special moves.",
-      "Device": "Arcade",
+  "Completed": {
+    "2020-12-10 - PC - Cyberpunk 2077": {
+      "Description": "Open-world RPG set in a dystopian future with branching storylines and cybernetic enhancements.",
+      "Device": "",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845d6c8a1c11f764244367d",
-      "ShortUrl": "https://trello.com/c/zr6UKqBw",
-      "Release Date": "1991-03-01",
-      "System": "SNES/Arcade",
-      "Title": "Street Fighter II"
+      "CardId": "6846068b0b9aa459c2c47709",
+      "ShortUrl": "https://trello.com/c/ZNRBEzkN",
+      "Release Date": "2020-12-10",
+      "System": "PC",
+      "Title": "Cyberpunk 2077"
     },
-    "1992-08-01 - SNES/Arcade - TMNT IV: Turtles in Time": {
-      "Description": "Classic beat 'em up featuring the Ninja Turtles traveling through different time periods.",
-      "Device": "Arcade",
+    "2020-04-10 - PS4 - Final Fantasy VII Remake": {
+      "Description": "Modern reimagining of the classic RPG with action combat and expanded Midgar storyline.",
+      "Device": "",
       "BoardId": "6845d20d25409836fe966019",
-      "CardId": "6845d72380626d2b004e6dfe",
-      "ShortUrl": "https://trello.com/c/VQk6fRad",
-      "Release Date": "1992-08-01",
-      "System": "SNES/Arcade",
-      "Title": "TMNT IV: Turtles in Time"
+      "CardId": "6846066023054d7ecb67babd",
+      "ShortUrl": "https://trello.com/c/LHOiAMxN",
+      "Release Date": "2020-04-10",
+      "System": "PS4",
+      "Title": "Final Fantasy VII Remake"
     }
   },
-  "Playing": {},
-  "Completed": {},
-  "Played": {}
+  "Played": {},
+  "Staging": {}
 }
